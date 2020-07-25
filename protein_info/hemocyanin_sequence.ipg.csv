@@ -1,0 +1,607 @@
+Id	Source	Nucleotide Accession	Start	Stop	Strand	Protein	Protein Name	Organism	Strain	Assembly
+175964099	RefSeq	NW_019718639.1	1621179	1642143	-	XP_023706312.1	hemocyanin	Cryptotermes secundus		GCF_002891405.2
+175964099	RefSeq	XM_023850544.2	41	2095	+	XP_023706312.1	hemocyanin	Cryptotermes secundus		
+175964099	INSDC	NEVH01000618.1	1621179	1642143	-	PNF43214.1	Hemocyanin	Cryptotermes secundus		GCA_002891405.2
+218545397	RefSeq	NW_020870551.1	170622	175599	+	XP_027227689.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+218545397	RefSeq	XM_027371888.1	9	2042	+	XP_027227689.1	hemocyanin C chain-like	Penaeus vannamei		
+218545397	INSDC	QCYY01003035.1	170622	175599	+	ROT65802.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+50181649	RefSeq	NW_020872604.1	231690	234224	-	XP_027239062.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+50181649	RefSeq	XM_027383261.1	52	2040	+	XP_027239062.1	hemocyanin C chain-like	Penaeus vannamei		
+50181649	INSDC	KJ151291.1	1	2553	+	AHN85635.1	hemocyanin	Penaeus vannamei		
+50181649	INSDC	QCYY01000671.1	231690	234224	-	ROT83547.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+323341925	INSDC	LC509010.1	1	2073	+	BBO93739.1	hemocyanin	Panulirus japonicus		
+312476400	INSDC	LC505514.1	1	2076	+	BBO36753.1	hemocyanin	Panulirus japonicus		
+312476389	INSDC	LC505512.1	1	2076	+	BBO36751.1	hemocyanin	Panulirus japonicus		
+312476375	INSDC	LC505513.1	1	2076	+	BBO36752.1	hemocyanin	Panulirus japonicus		
+312476356	INSDC	LC505511.1	1	2073	+	BBO36750.1	hemocyanin	Panulirus japonicus		
+1684847	Swiss-Prot	N/A				P80888.2	Hemocyanin	Palinurus vulgaris		
+281807810	INSDC	MK896907.1	2488	4322	+	QGN75344.1	hemocyanin	Penaeus vannamei		
+271641827	INSDC	VSRR010000203.1	9049	13172	+	MPC12200.1	Hemocyanin	Portunus trituberculatus		GCA_008373055.1
+271629616	INSDC	VSRR010001419.1	24662	32532	+	MPC25125.1	Hemocyanin	Portunus trituberculatus		GCA_008373055.1
+153980866	RefSeq	NW_019091204.1	2761177	2768006	+	XP_021959436.1	hemocyanin-like	Folsomia candida	VU population	GCF_002217175.1
+153980866	RefSeq	XM_022103744.1	47	2131	+	XP_021959436.1	hemocyanin-like	Folsomia candida	VU population	
+153980866	INSDC	LNIX01000012.1	2761177	2768006	+	OXA48288.1	Hemocyanin	Folsomia candida	VU population	GCA_002217175.1
+153980866	INSDC	MG930994.1	1	2085	+	QCC26456.1	hexamerin 1 precursor	Folsomia candida		
+98160504	INSDC	KP658977.1	15	2006	+	ALN67306.1	hemocyanin	Macrobrachium rosenbergii		
+220133477	INSDC	MF678814.1	1	1983	+	AZC98960.1	hemocyanin	Macrobrachium rosenbergii		
+218540480	RefSeq	NW_020872217.1	23500	25707	-	XP_027236657.1	hemocyanin-like	Penaeus vannamei		GCF_003789085.1
+218540480	RefSeq	XM_027380856.1	227	2230	+	XP_027236657.1	hemocyanin-like	Penaeus vannamei		
+218540480	INSDC	QCYY01004535.1	23500	25707	-	ROT60816.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+221520162	INSDC	MF998101.2	1	1932	+	AWK28004.2	hemocyanin	Mnemiopsis leidyi		
+221520161	INSDC	MF998093.2	1	1887	+	AWK27996.2	hemocyanin	Dorydrilus michaelseni		
+221520160	INSDC	MF998091.2	1	2143	+	AWK27994.2	hemocyanin	Coeloplana astericola		
+221520156	INSDC	MF998094.2	1	1712	+	AWK27997.2	hemocyanin	Eupolymnia nebulosa		
+187835364	INSDC	MF998100.1	1	1455	+	AWK28003.1	hemocyanin	Mesochaetopterus taylori		
+187835363	INSDC	MF998095.1	1	1545	+	AWK27998.1	hemocyanin	Harrimaniidae sp. EP-2018		
+187835362	INSDC	MF998111.1	1	1344	+	AWK28014.1	hemocyanin	Symbion americanus		
+187835360	INSDC	MF998113.1	1	1005	+	AWK28016.1	hemocyanin	Thelepus crispus		
+187835358	INSDC	MF998096.1	1	1329	+	AWK27999.1	hemocyanin	Kirkpatrickia variolosa		
+187835357	INSDC	MF998097.1	1	1362	+	AWK28000.1	hemocyanin	Latrunculia apicalis		
+187835356	INSDC	MF998099.1	1	1230	+	AWK28002.1	hemocyanin	Mesochaetopterus taylori		
+187835354	INSDC	MF998109.1	1	1968	+	AWK28012.1	hemocyanin	Streblosoma hartmanae		
+187835353	INSDC	MF998102.1	1	2040	+	AWK28005.1	hemocyanin	Paramphinome jeffreysii		
+187835351	INSDC	MF998112.1	1	1491	+	AWK28015.1	hemocyanin	Terebellides stroemii		
+187835350	INSDC	MF998106.1	1	1638	+	AWK28009.1	hemocyanin	Pista macrolobata		
+187835345	INSDC	MF998092.1	1	1716	+	AWK27995.1	hemocyanin	Cossura longocirrata		
+187835344	INSDC	MF998108.1	1	1878	+	AWK28011.1	hemocyanin	Pleurobrachia bachei		
+187835342	INSDC	MF998098.1	1	1935	+	AWK28001.1	hemocyanin	Lumbrineris perkinsi		
+187835342	INSDC	MF998110.1	1	1935	+	AWK28013.1	hemocyanin	Stylodrilus heringianus		
+187835340	INSDC	MF998107.1	1	1683	+	AWK28010.1	hemocyanin	Pleurobrachia bachei		
+218563003	INSDC	QCYY01000671.1	234911	237514	+	ROT83548.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+218557456	INSDC	QCYY01001464.1	585820	587640	+	ROT77858.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+218557356	INSDC	QCYY01001469.1	762794	763847	-	ROT77820.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+218557326	INSDC	QCYY01001464.1	331938	336177	+	ROT77849.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+218542993	INSDC	QCYY01003446.1	93271	101084	-	ROT63385.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+218542971	INSDC	QCYY01003446.1	6800	9286	-	ROT63381.1	hemocyanin	Penaeus vannamei		GCA_003789085.1
+181387673	INSDC	MF143190.1	22	2055	+	AVK43049.1	hemocyanin	Palaemon carinicauda		
+153973572	RefSeq	NW_019091223.1	969772	976344	-	XP_021965040.1	hemocyanin-like	Folsomia candida	VU population	GCF_002217175.1
+153973572	RefSeq	XM_022109348.1	45	2129	+	XP_021965040.1	hemocyanin-like	Folsomia candida	VU population	
+153973572	INSDC	LNIX01000031.1	969772	976344	-	OXA40985.1	Hemocyanin	Folsomia candida	VU population	GCA_002217175.1
+53351932	RefSeq	NW_019059696.1	1211083	1219082	-	XP_021915491.1	hemocyanin-like isoform X1	Zootermopsis nevadensis		GCF_000696155.1
+53351932	RefSeq	XM_022059799.1	285	2342	+	XP_021915491.1	hemocyanin-like isoform X1	Zootermopsis nevadensis		
+53351932	INSDC	KK852544.1	1211083	1219082	-	KDR21641.1	Hemocyanin	Zootermopsis nevadensis		GCA_000696155.1
+150572277	INSDC	KY695246.1	70	2058	+	ART94437.1	hemocyanin	Penaeus vannamei		
+15341987	INSDC	EU555188.1	1	1071	+	ACF70600.1	hemocyanin	Haliotis diversicolor supertexta		
+585328	INSDC	AF431737.1	1	1350	+	AAL27460.1	hemocyanin	Penaeus monodon		
+529935	INSDC	AJ250830.1	1	2016	+	CAB85965.1	hemocyanin	Penaeus vannamei		
+22862634	INSDC	JF342238.1	8	1167	+	AEA92687.1	hemocyanin	Penaeus monodon		
+22555671	INSDC	HQ709161.1	1	2019	+	ADZ15149.1	hemocyanin	Penaeus vannamei		
+21724566	INSDC	HM236057.1	1	1610	+	ADT91166.1	hemocyanin	Spirula spirula	FU-fg	
+21724565	INSDC	HM236056.1	4	925	+	ADT91165.1	hemocyanin	Spirula spirula	FU-dd1	
+21724564	INSDC	HM236055.1	4	2133	+	ADT91164.1	hemocyanin	Spirula spirula	FU-cd	
+1718138	INSDC	AF401231.1	1	913	+	AAQ03083.1	hemocyanin	Sepia officinalis		
+17917667	INSDC	GQ153950.1	1	1440	+	ACS44711.1	hemocyanin	Porcellio scaber		
+6723748	INSDC	EF110536.1	19	936	+	ABM74407.1	hemocyanin	Portunus pelagicus		
+79058019	INSDC	KM101106.1	25	2019	+	AJZ73181.1	hemocyanin	Portunus trituberculatus		
+79058019	INSDC	KR338955.1	25	2151	+	ALH22593.1	hemocyanin	Portunus trituberculatus		
+92468903	INSDC	KT355032.1	16	2040	+	ALF44611.1	hemocyanin	Eriphia verrucosa		
+62683269	INSDC	KJ959636.1	10	2028	+	AIN41163.1	hemocyanin	Penaeus vannamei		
+48702770	INSDC	KF431830.1	11	2077	+	AHJ90473.1	hemocyanin	Macrobrachium nipponense		
+31130568	INSDC	JX312285.1	1	648	+	AFV09849.1	hemocyanin	Procambarus clarkii		
+42619471	INSDC	KC920897.1	25	2010	+	AGT20779.1	hemocyanin	Penaeus merguiensis		
+29480252	INSDC	JQ411223.1	3	2045	+	AFP23115.1	hemocyanin	Cherax quadricarinatus		
+28931663	INSDC	HE574707.1	16	2016	+	CCC55785.1	hemocyanin	Caridina multidentata		
+28931662	INSDC	HE574706.1	26	2305	+	CCC55784.1	hemocyanin	Peripatopsis sedgwicki		
+23925976	INSDC	JF939200.1	27	2018	+	AEJ08191.1	hemocyanin	Palaemon carinicauda		
+23040942	INSDC	JF357966.1	1	2052	+	AEB77775.1	hemocyanin	Penaeus monodon		
+23116185	INSDC	JF683437.1	15	2006	+	AEC46861.1	hemocyanin	Macrobrachium nipponense		
+18446552	INSDC	GQ279108.1	22	2034	+	ACV33306.1	hemocyanin	Nebalia kensleyi		
+16446918	INSDC	FJ594414.1	10	2046	+	ACM61982.1	hemocyanin	Penaeus chinensis		
+6723737	INSDC	EF110537.1	20	877	+	ABM74408.1	hemocyanin	Portunus pelagicus		
+4972528	INSDC	DQ230983.1	27	2051	+	ABB59715.1	hemocyanin	Cyamus scammoni		
+1299046	INSDC	X82502.1	518	2506	+	CAA57880.1	hemocyanin	Penaeus vannamei		
+878837	INSDC	AJ420966.1	18	1943	+	CAD12808.1	hemocyanin	Epiperipatus sp. TB-2001		
+903628	INSDC	AF522504.1	1	1983	+	AAM81357.1	hemocyanin	Pacifastacus leniusculus		
+245788	INSDC	J02835.1	1	1200	+	AAA29390.1	hemocyanin	Enteroctopus dofleini		
+175964145	RefSeq	NW_019718639.1	1648282	1665484	+	XP_023706200.2	hemocyanin A chain	Cryptotermes secundus		GCF_002891405.2
+175964145	RefSeq	XM_023850432.2	5	2089	+	XP_023706200.2	hemocyanin A chain	Cryptotermes secundus		
+175964145	INSDC	NEVH01000618.1	1648282	1665484	+	PNF43217.1	Hemocyanin A chain	Cryptotermes secundus		GCA_002891405.2
+1373988	Swiss-Prot	N/A				P80960.2	Hemocyanin type 2 unit a	Rapana venosa		
+1373988	PIR	N/A				JC5632	hemocyanin dioxygen-binding functional unit	Rapana venosa		
+1232784	Swiss-Prot	N/A				Q9NFL4.3	Hemocyanin G chain	Aphonopelma sp.		
+1232784	INSDC	AJ277492.1	78	1967	+	CAB89497.1	hemocyanin subunit g	Aphonopelma californicum (nomen dubium)		
+1199860	Swiss-Prot	N/A				Q95P08.1	Hemocyanin subunit A	Scutigera coleoptrata		
+1199860	INSDC	AJ344359.1	18	1988	+	CAC69246.1	hemocyanin subunit A	Scutigera coleoptrata		
+1007471	Swiss-Prot	N/A				Q8T115.1	Hemocyanin subunit C	Scutigera coleoptrata		
+1007471	INSDC	AJ431379.1	7	2028	+	CAD24086.1	hemocyanin subunit C	Scutigera coleoptrata		
+848864	Swiss-Prot	N/A				Q95P07.1	Hemocyanin subunit D	Scutigera coleoptrata		
+848864	INSDC	AJ344360.1	29	2035	+	CAC69247.1	hemocyanin subunit D	Scutigera coleoptrata		
+706617	Swiss-Prot	N/A				P02241.3	Hemocyanin D chain	Aphonopelma sp.		
+706617	INSDC	AJ290430.1	12	1895	+	CAB89499.1	hemocyanin subunit d	Aphonopelma californicum (nomen dubium)		
+701891	Swiss-Prot	N/A				Q9NFL5.3	Hemocyanin F chain	Aphonopelma sp.		
+701891	INSDC	AJ277491.1	65	1954	+	CAB89496.1	hemocyanin subunit f	Aphonopelma californicum (nomen dubium)		
+675033	Swiss-Prot	N/A				Q8T116.1	Hemocyanin subunit X	Scutigera coleoptrata		
+675033	INSDC	AJ431378.1	21	2078	+	CAD24085.1	hemocyanin subunit X	Scutigera coleoptrata		
+664889	Swiss-Prot	N/A				Q9NFL6.3	Hemocyanin C chain	Aphonopelma sp.		
+664889	INSDC	AJ277489.1	74	1963	+	CAB89495.1	hemocyanin subunit c	Aphonopelma californicum (nomen dubium)		
+345304	Swiss-Prot	N/A				Q8IFJ8.1	Hemocyanin subunit B	Scutigera coleoptrata		
+345304	INSDC	AJ512793.1	46	2025	+	CAD55132.1	hemocyanin subunit B	Scutigera coleoptrata		
+114471	Swiss-Prot	N/A				P04254.2	Hemocyanin A chain	Panulirus interruptus		
+114471	PRF	N/A				1209209A	hemocyanin a	Panulirus interruptus		
+11864	Swiss-Prot	N/A				Q9NFH9.3	Hemocyanin B chain	Aphonopelma sp.		
+11864	INSDC	AJ290429.1	48	1931	+	CAB89498.1	hemocyanin subunit b	Aphonopelma californicum (nomen dubium)		
+6711060	RefSeq	NM_001314135.1	35	1918	+	NP_001301064.1	hemocyanin AA6 chain-like	Limulus polyphemus		
+6711060	RefSeq	NW_013666240.1	325708	333632	-	NP_001301064.1	hemocyanin AA6 chain-like	Limulus polyphemus		GCF_000517525.1
+6711060	INSDC	AM260214.1	35	1918	+	CAJ91098.1	hemocyanin subunit IIIa	Limulus polyphemus		
+6711051	RefSeq	NM_001314143.1	51	1940	+	NP_001301072.1	hemocyanin II	Limulus polyphemus		
+6711051	RefSeq	NW_013668779.1	58281	64241	+	NP_001301072.1	hemocyanin II	Limulus polyphemus		GCF_000517525.1
+6711051	INSDC	AM260213.1	51	1940	+	CAJ91097.1	hemocyanin subunit II	Limulus polyphemus		
+6711034	RefSeq	NM_001314148.1	41	1915	+	NP_001301077.1	hemocyanin F chain-like	Limulus polyphemus		
+6711034	RefSeq	NW_013668779.1	78443	84567	-	NP_001301077.1	hemocyanin F chain-like	Limulus polyphemus		GCF_000517525.1
+6711034	INSDC	AM260215.1	41	1915	+	CAJ91099.1	hemocyanin subunit IV	Limulus polyphemus		
+218542975	RefSeq	NW_020871007.1	39806	42905	-	XP_027232106.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+218542975	RefSeq	XM_027376305.1	24	2060	+	XP_027232106.1	hemocyanin C chain-like	Penaeus vannamei		
+218542975	INSDC	QCYY01003446.1	39806	42905	-	ROT63383.1	hemocyanin subunit L2	Penaeus vannamei		GCA_003789085.1
+153991867	RefSeq	NW_019091194.1	8410662	8413251	-	XP_021946254.1	hemocyanin F chain-like	Folsomia candida	VU population	GCF_002217175.1
+153991867	RefSeq	XM_022090562.1	24	1736	+	XP_021946254.1	hemocyanin F chain-like	Folsomia candida	VU population	
+153991867	INSDC	LNIX01000002.1	8410662	8413251	-	OXA59429.1	Hemocyanin F chain	Folsomia candida	VU population	GCA_002217175.1
+335424773	RefSeq	NW_023321303.1	60767	69218	+	XP_035226537.1	hemocyanin G chain-like	Stegodyphus dumicola		GCF_010614865.1
+335424773	RefSeq	XM_035370646.1	56	1936	+	XP_035226537.1	hemocyanin G chain-like	Stegodyphus dumicola		
+335424725	RefSeq	NW_023321303.1	16342	27996	+	XP_035226535.1	hemocyanin D chain-like	Stegodyphus dumicola		GCF_010614865.1
+335424725	RefSeq	XM_035370644.1	63	1949	+	XP_035226535.1	hemocyanin D chain-like	Stegodyphus dumicola		
+335420141	RefSeq	NW_023320398.1	173929	201198	+	XP_035224697.1	hemocyanin B chain-like	Stegodyphus dumicola		GCF_010614865.1
+335420141	RefSeq	XM_035368806.1	33	1958	+	XP_035224697.1	hemocyanin B chain-like	Stegodyphus dumicola		
+335384510	RefSeq	NW_023323912.1	62457	74139	-	XP_035230742.1	hemocyanin A chain-like	Stegodyphus dumicola		GCF_010614865.1
+335384510	RefSeq	XM_035374851.1	61	1959	+	XP_035230742.1	hemocyanin A chain-like	Stegodyphus dumicola		
+335374533	RefSeq	NW_023313561.1	527834	554493	+	XP_035233253.1	hemocyanin C chain-like	Stegodyphus dumicola		GCF_010614865.1
+335374533	RefSeq	XM_035377362.1	20	1912	+	XP_035233253.1	hemocyanin C chain-like	Stegodyphus dumicola		
+2002530	Swiss-Prot	N/A				P56825.1	Hemocyanin, units E and F	Sepia officinalis		
+2002012	Swiss-Prot	N/A				P56824.1	Hemocyanin, units C and D	Sepia officinalis		
+2001561	Swiss-Prot	N/A				P56826.1	Hemocyanin, units G and H	Sepia officinalis		
+1651292	Swiss-Prot	N/A				P83040.1	Hemocyanin type 2 unit e	Rapana venosa		
+1334969	Swiss-Prot	N/A				P12031.2	Hemocyanin, beta-C chain unit D	Helix pomatia		
+219838	Swiss-Prot	N/A				P56823.1	Hemocyanin, beta-C chain unit G	Helix pomatia		
+318390699	INSDC	LR791543.1	259	1797	+	CAB3267405.1	hemocyanin, beta-C chain unit D-like	Phallusia mammillata		
+1081808	Swiss-Prot	N/A				P81732.1	Hemocyanin 2-c chain	Megathura crenulata		
+309467617	RefSeq	NW_022757842.1	2707	5954	+	XP_033127104.1	hemocyanin G chain-like	Anneissia japonica		GCF_011630105.1
+309467617	RefSeq	XM_033271213.1	181	1080	+	XP_033127104.1	hemocyanin G chain-like	Anneissia japonica		
+309451389	RefSeq	NW_022714175.1	853541	857841	+	XP_033106998.1	hemocyanin AA6 chain-like	Anneissia japonica		GCF_011630105.1
+309451389	RefSeq	XM_033251107.1	1	1404	+	XP_033106998.1	hemocyanin AA6 chain-like	Anneissia japonica		
+309448242	RefSeq	NW_022707461.1	403	1647	+	XP_033103636.1	hemocyanin G chain-like	Anneissia japonica		GCF_011630105.1
+309448242	RefSeq	XM_033247745.1	1	738	+	XP_033103636.1	hemocyanin G chain-like	Anneissia japonica		
+309447728	RefSeq	NW_022705543.1	1520634	1528287	+	XP_033103049.1	hemocyanin AA6 chain-like	Anneissia japonica		GCF_011630105.1
+309447728	RefSeq	XM_033247158.1	1	2418	+	XP_033103049.1	hemocyanin AA6 chain-like	Anneissia japonica		
+298211197	INSDC	VCRD01000141.1	466708	470696	-	KAF2367351.1	Hemocyanin N-terminal	Trinorchestia longiramus		GCA_006783055.1
+298202189	INSDC	VCRD01001481.1	131	3236	-	KAF2359096.1	Hemocyanin N-terminal	Trinorchestia longiramus		GCA_006783055.1
+298195702	INSDC	VCRD01003685.1	16058	18287	+	KAF2352639.1	Hemocyanin C-terminal	Trinorchestia longiramus		GCA_006783055.1
+298192140	INSDC	VCRD01006007.1	21812	22792	-	KAF2349018.1	Hemocyanin N-terminal	Trinorchestia longiramus		GCA_006783055.1
+298188232	INSDC	VCRD01012314.1	1084	8322	-	KAF2345203.1	Hemocyanin N-terminal	Trinorchestia longiramus		GCA_006783055.1
+3968272	Swiss-Prot	N/A				P84293.1	Hemocyanin subunit 2	Carcinus aestuarii		
+1369530	Swiss-Prot	N/A				P02242.3	Hemocyanin E chain	Aphonopelma sp.		
+1313517	Swiss-Prot	N/A				P10787.1	Hemocyanin B chain	Panulirus interruptus		
+683719	Swiss-Prot	N/A				P14750.3	Hemocyanin A chain	Aphonopelma sp.		
+683719	INSDC	X16893.1	52	1947	+	CAA34771.1	unnamed protein product	Aphonopelma sp.		
+380679	Swiss-Prot	N/A				P80096.1	Hemocyanin C chain	Panulirus interruptus		
+298450	Swiss-Prot	N/A				P83180.1	Hemocyanin B chain	Astacus leptodactylus		
+260206	Swiss-Prot	N/A				P80476.1	Hemocyanin AA6 chain	Androctonus australis		
+260206	PDB	N/A				3IXV_A		Androctonus australis		
+260206	PDB	N/A				3IXV_C		Androctonus australis		
+260206	PDB	N/A				3IXV_D		Androctonus australis		
+260206	PDB	N/A				3IXV_E		Androctonus australis		
+260206	PDB	N/A				3IXV_F		Androctonus australis		
+260206	PDB	N/A				3IXV_G		Androctonus australis		
+260206	PDB	N/A				3IXV_H		Androctonus australis		
+260206	PDB	N/A				3IXV_I		Androctonus australis		
+260206	PDB	N/A				3IXV_J		Androctonus australis		
+260206	PDB	N/A				3IXV_K		Androctonus australis		
+260206	PDB	N/A				3IXV_L		Androctonus australis		
+260206	PDB	N/A				3IXV_M		Androctonus australis		
+260206	PDB	N/A				3IXW_A		Androctonus australis		
+260206	PDB	N/A				3IXW_C		Androctonus australis		
+260206	PDB	N/A				3IXW_D		Androctonus australis		
+260206	PDB	N/A				3IXW_E		Androctonus australis		
+260206	PDB	N/A				3IXW_F		Androctonus australis		
+260206	PDB	N/A				3IXW_G		Androctonus australis		
+260206	PDB	N/A				3IXW_H		Androctonus australis		
+260206	PDB	N/A				3IXW_I		Androctonus australis		
+260206	PDB	N/A				3IXW_J		Androctonus australis		
+260206	PDB	N/A				3IXW_K		Androctonus australis		
+260206	PDB	N/A				3IXW_L		Androctonus australis		
+260206	PDB	N/A				3IXW_M		Androctonus australis		
+165698	Swiss-Prot	N/A				P04253.2	Hemocyanin II	Limulus polyphemus		
+276148820	INSDC	SEYY01003252.1	21374	25043	+	KAB7504398.1	Hemocyanin A chain	Armadillidium nasatum		
+276148804	INSDC	SEYY01003252.1	50607	54284	+	KAB7504395.1	Hemocyanin B chain	Armadillidium nasatum		
+276147389	INSDC	SEYY01006589.1	35363	39981	+	KAB7502850.1	Hemocyanin A chain	Armadillidium nasatum		
+276146026	INSDC	SEYY01010499.1	24259	29609	+	KAB7501481.1	Hemocyanin B chain	Armadillidium nasatum		
+276142019	INSDC	SEYY01020391.1	55528	59063	+	KAB7497344.1	Hemocyanin A chain	Armadillidium nasatum		
+276141926	INSDC	SEYY01020391.1	44769	46855	-	KAB7497343.1	Hemocyanin B chain	Armadillidium nasatum		
+271678008	INSDC	VSRR010006655.1	1522	8125	+	MPC45272.1	Hemocyanin C chain	Portunus trituberculatus		GCA_008373055.1
+271668585	INSDC	VSRR010145045.1	89	1015	-	MPD05237.1	Hemocyanin C chain	Portunus trituberculatus		GCA_008373055.1
+271659888	INSDC	VSRR010004315.1	7483	10169	-	MPC39283.1	Hemocyanin C chain	Portunus trituberculatus		GCA_008373055.1
+271640657	INSDC	VSRR010000005.1	29486	31531	+	MPC07638.1	Hemocyanin subunit 2	Portunus trituberculatus		GCA_008373055.1
+271640271	INSDC	VSRR010032161.1	1017	2068	-	MPC71025.1	Hemocyanin C chain	Portunus trituberculatus		GCA_008373055.1
+271632460	INSDC	VSRR010001419.1	36352	38454	+	MPC25128.1	Hemocyanin A chain	Portunus trituberculatus		GCA_008373055.1
+271619438	INSDC	VSRR010005330.1	10785	11711	-	MPC42158.1	Hemocyanin C chain	Portunus trituberculatus		GCA_008373055.1
+118611393	RefSeq	NW_017249472.1	665377	668188	+	XP_018023978.1	hemocyanin B chain-like	Hyalella azteca		GCF_000764305.1
+118611393	RefSeq	XM_018168489.1	30	2015	+	XP_018023978.1	hemocyanin B chain-like	Hyalella azteca		
+118611393	INSDC	JQDR03013348.1	665377	668188	+	KAA0189758.1	hypothetical protein	Hyalella azteca		
+272410288	INSDC	CABPRJ010000001.1	1943264	1947792	+	VVC24125.1	Hemocyanin, N-terminal,Hemocyanin/hexamerin,Immunoglobulin E-	Cinara cedri		
+272393654	INSDC	CABPRJ010001915.1	8345	9985	-	VVC41255.1	Hemocyanin, N-terminal,Tudor domain	Cinara cedri		
+264434749	INSDC	BGPR01000062.1	1852080	1858351	+	GBL88938.1	Hemocyanin A chain	Araneus ventricosus		
+264434733	INSDC	BGPR01000062.1	1755754	1762903	-	GBL88929.1	Hemocyanin G chain	Araneus ventricosus		
+264434730	INSDC	BGPR01000062.1	1784319	1789975	-	GBL88930.1	Hemocyanin D chain	Araneus ventricosus		
+264405026	INSDC	BGPR01000662.1	406494	412701	+	GBM30512.1	Hemocyanin AA6 chain	Araneus ventricosus		
+264404990	INSDC	BGPR01000662.1	433055	440650	+	GBM30517.1	Hemocyanin F chain	Araneus ventricosus		
+264392170	INSDC	BGPR01001209.1	266226	274858	+	GBM48301.1	Hemocyanin F chain	Araneus ventricosus		
+264392105	INSDC	BGPR01001209.1	252504	264189	+	GBM48300.1	Hemocyanin F chain	Araneus ventricosus		
+264360133	INSDC	BGPR01003774.1	116625	123593	+	GBM92266.1	Hemocyanin B chain	Araneus ventricosus		
+264333617	INSDC	BGPR01008013.1	28261	49673	+	GBN30985.1	Hemocyanin C chain	Araneus ventricosus		
+264283922	INSDC	BGPR01029841.1	403	19026	+	GBO01918.1	Hemocyanin B chain	Araneus ventricosus		
+264283373	INSDC	BGPR01030258.1	4873	10453	+	GBO02665.1	Hemocyanin F chain	Araneus ventricosus		
+244521473	INSDC	MG931002.1	1	2037	+	QCC26464.1	hemocyanin subunit type 1	Pogonognathellus sp. AD-2013		
+244521469	INSDC	MG931003.1	1	2037	+	QCC26465.1	hemocyanin subunit type 2	Pogonognathellus sp. AD-2013		
+233224538	INSDC	QDEB01019061.1	442	2234	+	RZC41239.1	Hemocyanin C domain containing protein	Asbolus verrucosus		GCA_004193795.1
+233222444	INSDC	QDEB01036467.1	1048	3326	+	RZC39188.1	Hemocyanin C domain containing protein	Asbolus verrucosus		GCA_004193795.1
+233218123	INSDC	QDEB01076733.1	6553	8777	+	RZC34784.1	Hemocyanin C and/or Tyrosinase domain containing protein	Asbolus verrucosus		GCA_004193795.1
+233217756	INSDC	QDEB01079824.1	6	1618	-	RZC34455.1	Hemocyanin N domain containing protein	Asbolus verrucosus		GCA_004193795.1
+233217209	INSDC	QDEB01087840.1	2058	4349	+	RZC33552.1	Hemocyanin C domain containing protein	Asbolus verrucosus		GCA_004193795.1
+233215069	INSDC	QDEB01102604.1	3687	5805	+	RZC31781.1	Hemocyanin C and/or TCRP1 domain containing protein	Asbolus verrucosus		GCA_004193795.1
+98160517	INSDC	KP658978.1	20	2044	+	ALN67307.1	hemocyanin isoform 2	Macrobrachium rosenbergii		
+230253936	INSDC	SAUD01000351.1	40593	42665	-	RXG73474.1	Hemocyanin A chain	Armadillidium vulgare		GCA_004104545.1
+230253145	INSDC	SAUD01000754.1	98560	109879	-	RXG72716.1	Hemocyanin A chain	Armadillidium vulgare		GCA_004104545.1
+230249066	INSDC	SAUD01003156.1	77264	79439	+	RXG68583.1	Hemocyanin A chain	Armadillidium vulgare		GCA_004104545.1
+230241466	INSDC	SAUD01011588.1	13530	17162	+	RXG60848.1	Hemocyanin A chain	Armadillidium vulgare		GCA_004104545.1
+230234094	INSDC	SAUD01035052.1	11031	13207	+	RXG53313.1	Hemocyanin B chain	Armadillidium vulgare		GCA_004104545.1
+224668343	RefSeq	NW_020872604.1	235767	237514	+	XP_027239061.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+224668343	RefSeq	XM_027383260.1	657	3029	+	XP_027239061.1	hemocyanin C chain-like	Penaeus vannamei		
+224663232	RefSeq	NW_020871007.1	235996	238655	-	XP_027232124.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+224663232	RefSeq	XM_027376323.1	27	2063	+	XP_027232124.1	hemocyanin C chain-like	Penaeus vannamei		
+224663229	RefSeq	NW_020871007.1	157063	161081	-	XP_027232109.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+224663229	RefSeq	XM_027376308.1	7	2040	+	XP_027232109.1	hemocyanin C chain-like	Penaeus vannamei		
+224663226	RefSeq	NW_020871007.1	71904	75267	-	XP_027232108.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+224663226	RefSeq	XM_027376307.1	42	2075	+	XP_027232108.1	hemocyanin C chain-like	Penaeus vannamei		
+224663219	RefSeq	NW_020871007.1	6800	9277	-	XP_027232115.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+224663219	RefSeq	XM_027376314.1	1990	4089	+	XP_027232115.1	hemocyanin C chain-like	Penaeus vannamei		
+224663186	RefSeq	NW_020871007.1	94997	101084	-	XP_027232111.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+224663186	RefSeq	XM_027376310.1	65	1729	+	XP_027232111.1	hemocyanin C chain-like	Penaeus vannamei		
+224663158	RefSeq	NW_020871007.1	245913	247904	-	XP_027232126.1	hemocyanin C chain-like	Penaeus vannamei		GCF_003789085.1
+224663158	RefSeq	XM_027376325.1	128	1924	+	XP_027232126.1	hemocyanin C chain-like	Penaeus vannamei		
+224658750	RefSeq	NW_020870358.1	91044	104236	-	XP_027225941.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		GCF_003789085.1
+224658750	RefSeq	XM_027370140.1	141	2261	+	XP_027225941.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		
+224658750	RefSeq	NW_020870358.1	91044	104236	-	XP_027225942.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		GCF_003789085.1
+224658750	RefSeq	XM_027370141.1	113	2233	+	XP_027225942.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		
+224658750	RefSeq	NW_020870358.1	91044	104236	-	XP_027225943.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		GCF_003789085.1
+224658750	RefSeq	XM_027370142.1	130	2250	+	XP_027225943.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		
+224658750	RefSeq	NW_020870358.1	91044	104236	-	XP_027225944.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		GCF_003789085.1
+224658750	RefSeq	XM_027370143.1	107	2227	+	XP_027225944.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		
+224658750	RefSeq	NW_020870358.1	91044	104236	-	XP_027225945.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		GCF_003789085.1
+224658750	RefSeq	XM_027370144.1	125	2245	+	XP_027225945.1	hemocyanin F chain-like isoform X2	Penaeus vannamei		
+224658723	RefSeq	NW_020870358.1	91044	104236	-	XP_027225936.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		GCF_003789085.1
+224658723	RefSeq	XM_027370135.1	141	2267	+	XP_027225936.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		
+224658723	RefSeq	NW_020870358.1	91044	104236	-	XP_027225937.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		GCF_003789085.1
+224658723	RefSeq	XM_027370136.1	130	2256	+	XP_027225937.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		
+224658723	RefSeq	NW_020870358.1	91044	104236	-	XP_027225938.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		GCF_003789085.1
+224658723	RefSeq	XM_027370137.1	107	2233	+	XP_027225938.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		
+224658723	RefSeq	NW_020870358.1	91044	104236	-	XP_027225939.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		GCF_003789085.1
+224658723	RefSeq	XM_027370138.1	125	2251	+	XP_027225939.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		
+224658723	RefSeq	NW_020870358.1	91044	104236	-	XP_027225946.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		GCF_003789085.1
+224658723	RefSeq	XM_027370145.1	125	2251	+	XP_027225946.1	hemocyanin F chain-like isoform X1	Penaeus vannamei		
+224654833	RefSeq	NW_020869760.1	332107	334767	+	XP_027220086.1	hemocyanin D chain-like	Penaeus vannamei		GCF_003789085.1
+224654833	RefSeq	XM_027364285.1	1	756	+	XP_027220086.1	hemocyanin D chain-like	Penaeus vannamei		
+224654794	RefSeq	NW_020869760.1	311722	322962	-	XP_027220090.1	hemocyanin D chain-like	Penaeus vannamei		GCF_003789085.1
+224654794	RefSeq	XM_027364289.1	71	2155	+	XP_027220090.1	hemocyanin D chain-like	Penaeus vannamei		
+218552183	INSDC	QCYY01002125.1	68284	81450	+	ROT72637.1	hemocyanin subunit L2	Penaeus vannamei		GCA_003789085.1
+218546664	INSDC	QCYY01002862.1	91044	98347	-	ROT67046.1	Hemocyanin subunit A	Penaeus vannamei		GCA_003789085.1
+218543050	INSDC	QCYY01003446.1	138320	140970	-	ROT63387.1	hemocyanin subunit L3	Penaeus vannamei		GCA_003789085.1
+218543049	INSDC	QCYY01003446.1	182802	238655	-	ROT63391.1	hemocyanin subunit L3	Penaeus vannamei		GCA_003789085.1
+218543040	INSDC	QCYY01003446.1	129142	131741	-	ROT63386.1	hemocyanin subunit L3	Penaeus vannamei		GCA_003789085.1
+218543030	INSDC	QCYY01003446.1	51184	54634	-	ROT63384.1	hemocyanin subunit L2	Penaeus vannamei		GCA_003789085.1
+218543021	INSDC	QCYY01003446.1	147152	150438	-	ROT63388.1	hemocyanin subunit L2	Penaeus vannamei		GCA_003789085.1
+218543020	INSDC	QCYY01003446.1	245913	247904	-	ROT63392.1	hemocyanin subunit L2	Penaeus vannamei		GCA_003789085.1
+218542976	INSDC	QCYY01003446.1	173091	177019	-	ROT63390.1	hemocyanin subunit L2	Penaeus vannamei		GCA_003789085.1
+218542963	INSDC	QCYY01003446.1	23711	26590	-	ROT63382.1	hemocyanin subunit L1	Penaeus vannamei		GCA_003789085.1
+214884012	RefSeq	NC_020173.2	1537103	1542946	-	XP_026691523.1	hemocyanin, beta-C chain unit D-like isoform X2	Ciona intestinalis		GCF_000224145.3
+214884012	RefSeq	XM_026835722.1	180	1763	+	XP_026691523.1	hemocyanin, beta-C chain unit D-like isoform X2	Ciona intestinalis		
+214884002	RefSeq	NC_020173.2	1537103	1542946	-	XP_026691522.1	hemocyanin, beta-C chain unit D-like isoform X1	Ciona intestinalis		GCF_000224145.3
+214884002	RefSeq	XM_026835721.1	181	1782	+	XP_026691522.1	hemocyanin, beta-C chain unit D-like isoform X1	Ciona intestinalis		
+214883145	RefSeq	NC_020169.2	3565714	3567966	-	XP_026690154.1	hemocyanin A-type, units Ode to Odg-like isoform X2	Ciona intestinalis		GCF_000224145.3
+214883145	RefSeq	XM_026834353.1	478	1929	+	XP_026690154.1	hemocyanin A-type, units Ode to Odg-like isoform X2	Ciona intestinalis		
+214883132	RefSeq	NC_020169.2	3565563	3567966	-	XP_026690153.1	hemocyanin A-type, units Ode to Odg-like isoform X1	Ciona intestinalis		GCF_000224145.3
+214883132	RefSeq	XM_026834352.1	478	2136	+	XP_026690153.1	hemocyanin A-type, units Ode to Odg-like isoform X1	Ciona intestinalis		
+214881312	RefSeq	NC_020175.2	1044002	1051603	+	XP_002128425.2	hemocyanin A-type, units Ode to Odg-like isoform X2	Ciona intestinalis		GCF_000224145.3
+214881312	RefSeq	XM_002128389.5	25	1599	+	XP_002128425.2	hemocyanin A-type, units Ode to Odg-like isoform X2	Ciona intestinalis		
+214881266	RefSeq	NC_020175.2	1044002	1051603	+	XP_026692172.1	hemocyanin A-type, units Ode to Odg-like isoform X1	Ciona intestinalis		GCF_000224145.3
+214881266	RefSeq	XM_026836371.1	25	1722	+	XP_026692172.1	hemocyanin A-type, units Ode to Odg-like isoform X1	Ciona intestinalis		
+214880621	RefSeq	NW_004190477.2	15832	19981	+	XP_002122867.2	hemocyanin G-type, units Oda to Odg-like	Ciona intestinalis		GCF_000224145.3
+214880621	RefSeq	XM_002122831.5	57	1529	+	XP_002122867.2	hemocyanin G-type, units Oda to Odg-like	Ciona intestinalis		
+214880591	RefSeq	NW_004190477.2	21075	23880	+	XP_018671739.2	hemocyanin G-type, units Oda to Odg-like	Ciona intestinalis		GCF_000224145.3
+214880591	RefSeq	XM_018816194.2	282	1820	+	XP_018671739.2	hemocyanin G-type, units Oda to Odg-like	Ciona intestinalis		
+214879306	RefSeq	NW_004191386.1	25482	30180	-	XP_018672468.2	hemocyanin A-type, units Ode to Odg-like	Ciona intestinalis		GCF_000224145.3
+214879306	RefSeq	XM_018816923.2	94	1713	+	XP_018672468.2	hemocyanin A-type, units Ode to Odg-like	Ciona intestinalis		
+124114671	RefSeq	NC_020170.2	1944811	1948341	-	XP_018667399.1	hemocyanin G-type, units Oda to Odg-like	Ciona intestinalis		GCF_000224145.3
+124114671	RefSeq	XM_018811854.2	1087	2760	+	XP_018667399.1	hemocyanin G-type, units Oda to Odg-like	Ciona intestinalis		
+15610042	RefSeq	NC_020169.2	3569998	3572860	-	XP_002130497.1	hemocyanin A-type, units Ode to Odg-like	Ciona intestinalis		GCF_000224145.3
+15610042	RefSeq	XM_002130461.5	293	1951	+	XP_002130497.1	hemocyanin A-type, units Ode to Odg-like	Ciona intestinalis		
+15600069	RefSeq	NC_020177.2	5336048	5339615	-	XP_002119675.4	hemocyanin, beta-C chain unit D	Ciona intestinalis		GCF_000224145.3
+15600069	RefSeq	XM_002119639.5	140	1705	+	XP_002119675.4	hemocyanin, beta-C chain unit D	Ciona intestinalis		
+73909992	INSDC	KJ631058.1	1	1986	+	AJG06859.1	hemocyanin subunit 1-like protein	Macrobrachium rosenbergii		
+73909991	INSDC	KJ631057.1	1	2025	+	AJG06858.1	hemocyanin subunit 1-like protein	Macrobrachium rosenbergii		
+73909990	INSDC	KJ631056.1	7	2031	+	AJG06857.1	hemocyanin subunit 1-like protein	Macrobrachium rosenbergii		
+189648099	RefSeq	NC_037593.1	14585456	14587354	-	XP_025089912.1	hemocyanin A-type, units Ode to Odg-like	Pomacea canaliculata		GCF_003073045.1
+189648099	RefSeq	XM_025234127.1	1	1251	+	XP_025089912.1	hemocyanin A-type, units Ode to Odg-like	Pomacea canaliculata		
+104637869	RefSeq	NW_014333672.1	95399	97647	-	XP_015605378.1	hemocyanin B chain	Cephus cinctus		GCF_000341935.1
+104637869	RefSeq	XM_015749892.2	63	2069	+	XP_015605378.1	hemocyanin B chain	Cephus cinctus		
+104637864	RefSeq	NW_014333672.1	98638	101089	+	XP_015605372.1	hemocyanin A chain	Cephus cinctus		GCF_000341935.1
+104637864	RefSeq	XM_015749886.2	21	2204	+	XP_015605372.1	hemocyanin A chain	Cephus cinctus		
+183545540	INSDC	PYGN01001206.1	307369	342541	+	PSN36663.1	Hemocyanin B chain	Blattella germanica	American Cyanamid = Orlando Normal	GCA_003018175.1
+183545525	INSDC	PYGN01001206.1	244777	269546	-	PSN36662.1	Hemocyanin A chain	Blattella germanica	American Cyanamid = Orlando Normal	GCA_003018175.1
+181631148	INSDC	MWRG01000035.1	486165	496857	-	PRD38267.1	Hemocyanin G chain	Trichonephila clavipes		GCA_002102615.1
+181626882	INSDC	MWRG01001862.1	69763	76728	-	PRD33499.1	Hemocyanin A chain	Trichonephila clavipes		GCA_002102615.1
+181626838	INSDC	MWRG01001862.1	49127	52453	-	PRD33498.1	Hemocyanin A chain	Trichonephila clavipes		GCA_002102615.1
+181617397	INSDC	MWRG01015567.1	24447	35369	+	PRD24254.1	Hemocyanin A chain	Trichonephila clavipes		GCA_002102615.1
+181616183	INSDC	MWRG01019246.1	7150	23428	+	PRD23016.1	Hemocyanin C chain	Trichonephila clavipes		GCA_002102615.1
+181597893	INSDC	MWRG01057770.1	1312	5621	-	PRD19547.1	Hemocyanin F chain	Trichonephila clavipes		GCA_002102615.1
+174885619	RefSeq	NW_019397365.1	38485	53049	+	XP_023344481.1	hemocyanin F chain-like	Eurytemora affinis	Atlantic clade	GCF_000591075.1
+174885619	RefSeq	XM_023488713.1	73	2604	+	XP_023344481.1	hemocyanin F chain-like	Eurytemora affinis	Atlantic clade	
+174872416	RefSeq	NW_019396339.1	276263	280164	+	XP_023328226.1	hemocyanin D chain-like isoform X1	Eurytemora affinis	Atlantic clade	GCF_000591075.1
+174872416	RefSeq	XM_023472458.1	37	2697	+	XP_023328226.1	hemocyanin D chain-like isoform X1	Eurytemora affinis	Atlantic clade	
+174872363	RefSeq	NW_019396339.1	276263	280164	+	XP_023328227.1	hemocyanin D chain-like isoform X2	Eurytemora affinis	Atlantic clade	GCF_000591075.1
+174872363	RefSeq	XM_023472459.1	37	2664	+	XP_023328227.1	hemocyanin D chain-like isoform X2	Eurytemora affinis	Atlantic clade	
+174869222	RefSeq	NW_019396209.1	113238	131367	-	XP_023324280.1	hemocyanin F chain-like	Eurytemora affinis	Atlantic clade	GCF_000591075.1
+174869222	RefSeq	XM_023468512.1	37	2634	+	XP_023324280.1	hemocyanin F chain-like	Eurytemora affinis	Atlantic clade	
+174866323	RefSeq	NW_019396118.1	189194	210377	-	XP_023320583.1	hemocyanin AA6 chain-like isoform X2	Eurytemora affinis	Atlantic clade	GCF_000591075.1
+174866323	RefSeq	XM_023464815.1	65	1945	+	XP_023320583.1	hemocyanin AA6 chain-like isoform X2	Eurytemora affinis	Atlantic clade	
+174866303	RefSeq	NW_019396118.1	189194	210377	-	XP_023320582.1	hemocyanin AA6 chain-like isoform X1	Eurytemora affinis	Atlantic clade	GCF_000591075.1
+174866303	RefSeq	XM_023464814.1	65	1963	+	XP_023320582.1	hemocyanin AA6 chain-like isoform X1	Eurytemora affinis	Atlantic clade	
+173618438	RefSeq	NW_019385736.1	96650	99520	-	XP_023243624.1	hemocyanin B chain-like	Centruroides sculpturatus		GCF_000671375.1
+173618438	RefSeq	XM_023387856.1	51	1961	+	XP_023243624.1	hemocyanin B chain-like	Centruroides sculpturatus		
+173611961	RefSeq	NW_019385096.1	262921	266149	+	XP_023235202.1	hemocyanin II-like	Centruroides sculpturatus		GCF_000671375.1
+173611961	RefSeq	XM_023379434.1	58	1956	+	XP_023235202.1	hemocyanin II-like	Centruroides sculpturatus		
+173607154	RefSeq	NW_019384781.1	486703	489139	+	XP_023228836.1	hemocyanin F chain-like	Centruroides sculpturatus		GCF_000671375.1
+173607154	RefSeq	XM_023373068.1	60	1940	+	XP_023228836.1	hemocyanin F chain-like	Centruroides sculpturatus		
+173604053	RefSeq	NW_019384630.1	549507	552289	-	XP_023224731.1	hemocyanin A chain-like	Centruroides sculpturatus		GCF_000671375.1
+173604053	RefSeq	XM_023368963.1	58	1947	+	XP_023224731.1	hemocyanin A chain-like	Centruroides sculpturatus		
+173604053	RefSeq	NW_019384735.1	4525	7307	-	XP_023227784.1	hemocyanin A chain-like	Centruroides sculpturatus		GCF_000671375.1
+173604053	RefSeq	XM_023372016.1	58	1947	+	XP_023227784.1	hemocyanin A chain-like	Centruroides sculpturatus		
+173602038	RefSeq	NW_019384551.1	801157	803707	-	XP_023222105.1	hemocyanin B chain-like	Centruroides sculpturatus		GCF_000671375.1
+173602038	RefSeq	XM_023366337.1	64	1971	+	XP_023222105.1	hemocyanin B chain-like	Centruroides sculpturatus		
+91611656	RefSeq	NW_013667748.1	154072	165941	-	XP_013781757.1	hemocyanin B chain-like	Limulus polyphemus		GCF_000517525.1
+91611656	RefSeq	XM_013926303.2	104	2020	+	XP_013781757.1	hemocyanin B chain-like	Limulus polyphemus		
+91607055	RefSeq	NW_013666483.1	1787	9496	+	XP_013776190.1	hemocyanin AA6 chain-like	Limulus polyphemus		GCF_000517525.1
+91607055	RefSeq	XM_013920736.2	1	1473	+	XP_013776190.1	hemocyanin AA6 chain-like	Limulus polyphemus		
+91606651	RefSeq	NW_013666397.1	70812	85164	+	XP_013775696.1	hemocyanin B chain-like	Limulus polyphemus		GCF_000517525.1
+91606651	RefSeq	XM_013920242.2	209	2125	+	XP_013775696.1	hemocyanin B chain-like	Limulus polyphemus		
+156721929	INSDC	KX610822.1	23	2053	+	AST15994.1	hemocyanin subunit 1	Scylla serrata		
+156697574	RefSeq	NW_019091813.1	3953	26596	+	XP_022111514.1	hemocyanin AA6 chain-like	Acanthaster planci		GCF_001949145.1
+156697574	RefSeq	XM_022255822.1	31	2109	+	XP_022111514.1	hemocyanin AA6 chain-like	Acanthaster planci		
+156552839	RefSeq	NW_019091201.1	4976367	4988883	-	XP_021958307.1	hemocyanin E chain-like	Folsomia candida	VU population	GCF_002217175.1
+156552839	RefSeq	XM_022102615.1	1	2226	+	XP_021958307.1	hemocyanin E chain-like	Folsomia candida	VU population	
+156552471	RefSeq	NW_019091200.1	5104278	5107346	-	XP_021957545.1	hemocyanin B chain-like	Folsomia candida	VU population	GCF_002217175.1
+156552471	RefSeq	XM_022101853.1	1	1899	+	XP_021957545.1	hemocyanin B chain-like	Folsomia candida	VU population	
+156548943	RefSeq	NW_019091195.1	14926317	14926726	+	XP_021950615.1	hemocyanin C chain-like	Folsomia candida	VU population	GCF_002217175.1
+156548943	RefSeq	XM_022094923.1	22	637	+	XP_021950615.1	hemocyanin C chain-like	Folsomia candida		
+156548265	RefSeq	NW_019091195.1	4024342	4027027	-	XP_021949321.1	hemocyanin A chain-like	Folsomia candida	VU population	GCF_002217175.1
+156548265	RefSeq	XM_022093629.1	1	1449	+	XP_021949321.1	hemocyanin A chain-like	Folsomia candida	VU population	
+156548239	RefSeq	NW_019091195.1	4034089	4039209	-	XP_021949214.1	hemocyanin B chain-like	Folsomia candida	VU population	GCF_002217175.1
+156548239	RefSeq	XM_022093522.1	190	2676	+	XP_021949214.1	hemocyanin B chain-like	Folsomia candida	VU population	
+153989919	RefSeq	NW_019091195.1	1195229	1198862	-	XP_021947776.1	hemocyanin F chain-like	Folsomia candida	VU population	GCF_002217175.1
+153989919	RefSeq	XM_022092084.1	64	2610	+	XP_021947776.1	hemocyanin F chain-like	Folsomia candida	VU population	
+153989919	INSDC	LNIX01000003.1	1195229	1198862	-	OXA57423.1	Phenoloxidase subunit 1	Folsomia candida	VU population	GCA_002217175.1
+153995409	INSDC	LNIX01000001.1	6406480	6410326	-	OXA62928.1	Hemocyanin G chain	Folsomia candida	VU population	GCA_002217175.1
+153990184	INSDC	LNIX01000003.1	14924404	14925763	+	OXA57670.1	Hemocyanin A chain	Folsomia candida	VU population	GCA_002217175.1
+153989266	INSDC	LNIX01000003.1	4024342	4027027	-	OXA56730.1	Hemocyanin A chain	Folsomia candida	VU population	GCA_002217175.1
+153983188	INSDC	LNIX01000008.1	5103967	5107346	-	OXA50653.1	Hemocyanin B chain	Folsomia candida	VU population	GCA_002217175.1
+153983081	INSDC	LNIX01000009.1	4976367	4988883	-	OXA50539.1	Hemocyanin D chain	Folsomia candida	VU population	GCA_002217175.1
+106235158	RefSeq	NW_018370754.1	390821	410063	+	XP_015923309.1	hemocyanin A chain	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106235158	RefSeq	XM_016067823.1	182	2080	+	XP_015923309.1	hemocyanin A chain	Parasteatoda tepidariorum	Goettingen	
+106235157	RefSeq	NW_018370754.1	285337	298482	-	XP_015923307.1	hemocyanin AA6 chain-like	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106235157	RefSeq	XM_016067821.1	92	1969	+	XP_015923307.1	hemocyanin AA6 chain-like	Parasteatoda tepidariorum	Goettingen	
+106235156	RefSeq	NW_018370754.1	344463	359840	-	XP_015923306.1	hemocyanin D chain	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106235156	RefSeq	XM_016067820.2	163	2049	+	XP_015923306.1	hemocyanin D chain	Parasteatoda tepidariorum	Goettingen	
+106235155	RefSeq	NW_018370754.1	251343	276300	-	XP_015923305.1	hemocyanin F chain	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106235155	RefSeq	XM_016067819.2	48	1790	+	XP_015923305.1	hemocyanin F chain	Parasteatoda tepidariorum		
+106235154	RefSeq	NW_018370754.1	315388	331945	-	XP_015923304.1	hemocyanin G chain	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106235154	RefSeq	XM_016067818.1	133	2262	+	XP_015923304.1	hemocyanin G chain	Parasteatoda tepidariorum	Goettingen	
+106227396	RefSeq	NW_018378677.1	92984	114195	-	XP_015914467.1	hemocyanin C chain	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106227396	RefSeq	XM_016058981.1	16	2067	+	XP_015914467.1	hemocyanin C chain	Parasteatoda tepidariorum	Goettingen	
+106223204	RefSeq	NW_018379904.1	12061897	12073881	+	XP_015908947.1	hemocyanin A chain	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106223204	RefSeq	XM_016053461.1	79	1977	+	XP_015908947.1	hemocyanin A chain	Parasteatoda tepidariorum		
+106219215	RefSeq	NW_018381231.1	849132	869357	-	XP_015903616.1	hemocyanin B chain	Parasteatoda tepidariorum	Goettingen	GCF_000365465.2
+106219215	RefSeq	XM_016048130.1	118	2010	+	XP_015903616.1	hemocyanin B chain	Parasteatoda tepidariorum	Goettingen	
+76755032	RefSeq	NW_003554163.1	343	1635	-	XP_011409168.1	hemocyanin AA6 chain-like	Amphimedon queenslandica		GCF_000090795.1
+76755032	RefSeq	XM_011410866.1	1	1203	+	XP_011409168.1	hemocyanin AA6 chain-like	Amphimedon queenslandica		
+76755032	RefSeq	XM_011410866.2	55	1257	+	XP_011409168.1	hemocyanin AA6 chain-like	Amphimedon queenslandica		
+76753949	RefSeq	NW_003548346.1	5948	7486	-	XP_011408074.1	LOW QUALITY PROTEIN: hemocyanin AA6 chain-like	Amphimedon queenslandica		GCF_000090795.1
+76753949	RefSeq	XM_011409772.1	1	1452	+	XP_011408074.1	LOW QUALITY PROTEIN: hemocyanin AA6 chain-like	Amphimedon queenslandica		
+76753949	RefSeq	XM_011409772.2	8	1459	+	XP_011408074.1	LOW QUALITY PROTEIN: hemocyanin AA6 chain-like	Amphimedon queenslandica		
+117513883	INSDC	LJIJ01000189.1	123171	125905	+	ODN00732.1	Hemocyanin B chain	Orchesella cincta		GCA_001718145.1
+117513882	INSDC	LJIJ01000189.1	118053	119906	-	ODN00731.1	Hemocyanin A chain	Orchesella cincta		GCA_001718145.1
+117512141	INSDC	LJIJ01000305.1	103191	106014	-	ODM98986.1	Hemocyanin F chain	Orchesella cincta		GCA_001718145.1
+117510182	INSDC	LJIJ01000477.1	28683	30921	+	ODM97026.1	Hemocyanin E chain	Orchesella cincta		GCA_001718145.1
+117505336	INSDC	LJIJ01001307.1	2597	4336	-	ODM92173.1	Hemocyanin F chain	Orchesella cincta		GCA_001718145.1
+117500644	INSDC	LJIJ01005239.1	1925	6095	-	ODM87468.1	Hemocyanin D chain	Orchesella cincta		GCA_001718145.1
+114176766	RefSeq	NW_016188952.1	3016	4026	+	XP_017460557.1	LOW QUALITY PROTEIN: hemocyanin type 2 unit e-like	Rhagoletis zephyria		GCF_001687245.1
+114176766	RefSeq	XM_017605068.1	1	966	+	XP_017460557.1	LOW QUALITY PROTEIN: hemocyanin type 2 unit e-like	Rhagoletis zephyria		
+15664230	INSDC	AM949571.1	1	2453	+	CAQ30425.1	hemocyanin fgh	Falcidens crossotus		
+15664228	INSDC	AM949573.1	1	1634	+	CAQ30427.1	hemocyanin fg	Nierstraszella lineata		
+15664227	INSDC	AM949574.1	1	1262	+	CAQ30428.1	hemocyanin fg	Leptochiton alascensis		
+15664226	INSDC	AM949575.1	1	1238	+	CAQ30429.1	hemocyanin fg	Callochiton bouveti		
+15664225	INSDC	AM949576.1	1	852	+	CAQ30430.1	hemocyanin fg	Hanleyella oldroydi		
+1148477	INSDC	AJ272095.1	2	2020	+	CAB75960.1	hemocyanin alpha-subunit	Homarus americanus		
+896924	INSDC	AJ344361.1	2	2056	+	CAC69243.1	hemocyanin subunit 1	Palinurus vulgaris		
+601659	INSDC	AJ344362.1	1	2055	+	CAC69244.1	hemocyanin subunit 2	Palinurus vulgaris		
+401080	INSDC	M57288.1	1	2504	+	AAA29391.1	hemocyanin precursor	Enteroctopus dofleini		
+255961	INSDC	AJ344363.1	3	2060	+	CAC69245.1	hemocyanin subunit 3	Palinurus vulgaris		
+20312742	INSDC	FM173223.1	1	1074	+	CAQ64615.1	hemocyanin fg	Acanthochitona fascicularis		
+20312741	INSDC	FM173222.1	1	1309	+	CAQ64614.1	hemocyanin fg	Tonicia chilensis		
+20312740	INSDC	FM173221.1	1	1066	+	CAQ64613.1	hemocyanin fg	Stenosemus albus		
+20312739	INSDC	FM173220.1	1	1893	+	CAQ64612.1	hemocyanin fg	Schizoplax brandtii		
+20312738	INSDC	FM173219.1	1	1166	+	CAQ64611.1	hemocyanin fg	Plaxiphora aurata		
+20312737	INSDC	FM173218.1	1	1236	+	CAQ64610.1	hemocyanin fg	Onithochiton hirasei		
+20312736	INSDC	FM173217.1	1	1220	+	CAQ64609.1	hemocyanin fg	Nuttallochiton mirandus		
+20312735	INSDC	FM173216.1	1	1117	+	CAQ64608.1	hemocyanin fg	Nuttallina fluxa		
+20312734	INSDC	FM173215.1	1	1104	+	CAQ64607.1	hemocyanin fg	Notoplax conica		
+20312733	INSDC	FM173214.1	1	2134	+	CAQ64606.1	hemocyanin fg	Loricella angasi		
+20312732	INSDC	FM173213.1	1	1088	+	CAQ64605.1	hemocyanin fg	Lorica volvox		
+20312731	INSDC	FM173212.1	1	1679	+	CAQ68495.1	hemocyanin fg	Leptochiton asellus		
+20312730	INSDC	FM173211.1	1	1077	+	CAQ64604.1	hemocyanin fg	Lepidochitona cinerea		
+20312729	INSDC	FM173210.1	1	1100	+	CAQ64603.1	hemocyanin fg	Lepidozona radians		
+20312728	INSDC	FM173209.1	1	1342	+	CAQ64602.1	hemocyanin fg	Cryptoplax iredalei		
+20312727	INSDC	FM173208.1	1	2360	+	CAQ64601.1	hemocyanin fg	Lepidochitona hartwegii		
+20312726	INSDC	FM173207.1	1	1535	+	CAQ64600.1	hemocyanin fg	Chiton magnificus		
+19437261	INSDC	FM999829.1	1	1854	+	CAX46429.1	hemocyanin subunit 2 precursor	Odontodactylus scyllarus		
+18040029	INSDC	FN424085.1	1	1853	+	CAZ66718.1	hemocyanin subunit 4	Pandinus imperator		
+18040024	INSDC	FN424080.1	1	1823	+	CAZ66713.1	hemocyanin subunit 2	Pandinus imperator		
+17917669	INSDC	GQ153952.1	1	2037	+	ACS44713.1	hemocyanin subunit 2	Eurydice pulchra		
+17917668	INSDC	GQ153951.1	1	2053	+	ACS44712.1	hemocyanin subunit 1	Eurydice pulchra		
+16431256	INSDC	FM242654.1	1	1371	+	CAR85707.1	hemocyanin subunit type 2	Chelidura acanthopygia		
+16431252	INSDC	FM242650.1	1	1053	+	CAR85703.1	hemocyanin subunit type 1	Folsomia candida		
+6723745	INSDC	EF110531.1	1	673	+	ABM74404.1	hemocyanin subunit 1	Portunus pelagicus		
+6723740	INSDC	EF110533.1	1	685	+	ABM74405.1	hemocyanin subunit 3	Portunus pelagicus		
+6723739	INSDC	EF110534.1	1	719	+	ABM74406.1	hemocyanin subunit 4	Portunus pelagicus		
+6526469	INSDC	EF095142.1	1	669	+	ABL75450.1	hemocyanin beta subunit	Homarus americanus		
+34032849	INSDC	JX204834.1	1	2079	+	AGG40957.1	hemocyanin subunit type 1	Calliptamus italicus		
+93516007	INSDC	LN879387.1	51	2129	+	CUH82792.1	hemocyanin 2	Argulus foliaceus		
+93516006	INSDC	LN879386.1	51	2120	+	CUH82791.1	hemocyanin 1	Argulus foliaceus		
+105513893	INSDC	KT725203.1	22	2073	+	AMP43672.1	hemocyanin subunit 2	Procambarus clarkii		
+105513892	INSDC	KT725202.1	132	2117	+	AMP43671.1	hemocyanin subunit 1	Procambarus clarkii		
+104358194	RefSeq	NW_015385028.1	159350	162424	+	XP_015519891.1	hemocyanin A chain-like	Neodiprion lecontei		GCF_001263575.1
+104358194	RefSeq	XM_015664405.1	1	2010	+	XP_015519891.1	hemocyanin A chain-like	Neodiprion lecontei		
+80388599	INSDC	KM276088.1	32	2062	+	AKC96433.1	hemocyanin subunit 1	Scylla paramamosain		
+80388596	INSDC	KM276087.1	4	2019	+	AKC96432.1	hemocyanin subunit 4	Scylla paramamosain		
+80388593	INSDC	KM276086.1	3	2021	+	AKC96431.1	hemocyanin subunit 3	Scylla paramamosain		
+80388590	INSDC	KM276085.1	102	1814	+	AKC96430.1	hemocyanin subunit 2	Scylla paramamosain		
+99358652	RefSeq	NW_014790446.1	3047	4369	-	XP_014790188.1	hemocyanin G-type, units Oda to Odg-like	Octopus bimaculoides		GCF_001194135.1
+99358652	RefSeq	XM_014934702.1	1	918	+	XP_014790188.1	hemocyanin G-type, units Oda to Odg-like	Octopus bimaculoides		
+99358536	RefSeq	NW_014779982.1	368	2273	-	XP_014789967.1	hemocyanin, units G and H-like	Octopus bimaculoides		GCF_001194135.1
+99358536	RefSeq	XM_014934481.1	1	1809	+	XP_014789967.1	hemocyanin, units G and H-like	Octopus bimaculoides		
+99357470	RefSeq	NW_014726800.1	8	705	+	XP_014787775.1	hemocyanin G-type, units Oda to Odg-like	Octopus bimaculoides		GCF_001194135.1
+99357470	RefSeq	XM_014932289.1	1	698	+	XP_014787775.1	hemocyanin G-type, units Oda to Odg-like	Octopus bimaculoides		
+99357181	RefSeq	NW_014719613.1	405020	405892	-	XP_014787135.1	hemocyanin A-type, units Ode to Odg-like	Octopus bimaculoides		GCF_001194135.1
+99357181	RefSeq	XM_014931649.1	1	873	+	XP_014787135.1	hemocyanin A-type, units Ode to Odg-like	Octopus bimaculoides		
+98666076	INSDC	JYDP01000738.1	121	1278	-	KRY99679.1	Hemocyanin C chain	Trichinella zimbabwensis		GCA_001447665.1
+93516009	INSDC	AB893197.1	1	1126	+	BAS69906.1	hemocyanin subunit2	Todarodes pacificus		
+93516008	INSDC	AB893196.1	1	1141	+	BAS69905.1	hemocyanin subunit1	Todarodes pacificus		
+82643594	INSDC	KP325672.1	1	2037	+	AKI81624.1	hemocyanin V4	Penaeus vannamei		
+87074986	RefSeq	NW_013291165.1	405	4445	-	XP_013078174.1	hemocyanin G-type, units Oda to Odg-like	Biomphalaria glabrata		GCF_000457365.1
+87074986	RefSeq	XM_013222720.1	1	790	+	XP_013078174.1	hemocyanin G-type, units Oda to Odg-like	Biomphalaria glabrata		
+84678627	RefSeq	NW_004797501.1	822359	826085	-	XP_012938878.1	hemocyanin G-type, units Oda to Odg-like	Aplysia californica		GCF_000002075.1
+84678627	RefSeq	XM_013083424.1	1127	1930	+	XP_012938878.1	hemocyanin G-type, units Oda to Odg-like	Aplysia californica		
+48564435	RefSeq	NW_003122410.1	49840	52291	+	XP_006815579.1	hemocyanin AA6 chain	Saccoglossus kowalevskii		GCF_000003605.2
+48564435	RefSeq	XM_006815516.1	309	2411	+	XP_006815579.1	hemocyanin AA6 chain	Saccoglossus kowalevskii		
+58598788	INSDC	KJ713392.1	1	2079	+	AIE39570.1	hemocyanin subunit 2	Locusta migratoria	Hebei	
+58598787	INSDC	KJ713391.1	1	2060	+	AIE39569.1	hemocyanin subunit 1	Locusta migratoria	Hebei	
+51220160	INSDC	KF193065.1	1	1298	+	AHY86478.1	hemocyanin subunit L5	Penaeus vannamei		
+51220159	INSDC	KF193064.1	236	2886	+	AHY86477.1	hemocyanin subunit L3	Penaeus vannamei		
+51220158	INSDC	KF193063.1	236	2934	+	AHY86476.1	hemocyanin subunit L2	Penaeus vannamei		
+51220157	INSDC	KF193062.1	236	2943	+	AHY86475.1	hemocyanin subunit L1	Penaeus vannamei		
+51220155	INSDC	KF193060.1	1	2031	+	AHY86473.1	hemocyanin subunit L3	Penaeus vannamei		
+51220154	INSDC	KF193059.1	1	2028	+	AHY86472.1	hemocyanin subunit L2	Penaeus vannamei		
+51220153	INSDC	KF193058.1	1	2031	+	AHY86471.1	hemocyanin subunit L1	Penaeus vannamei		
+48219136	INSDC	KF670722.1	1	2016	+	AHI62557.1	hemocyanin subunit type 2	Folsomia candida		
+729778	INSDC	AJ307903.1	48	1952	+	CAC44749.1	hemocyanin subunit 1	Cupiennius salei		
+729778	INSDC	GAKT01000072.1	110	2014	+	JAA92990.1	putative hemocyanin-1	Cupiennius salei		
+35844420	INSDC	KC769575.1	1	1029	+	AGL10031.1	hemocyanin subunit C	Aphonopelma seemanni		
+35844408	INSDC	KC769577.1	1	1065	+	AGL10019.1	hemocyanin subunit E	Aphonopelma seemanni		
+35843481	INSDC	KC769574.1	1	792	+	AGL09986.1	hemocyanin subunit B	Aphonopelma seemanni		
+28931895	INSDC	HE574799.1	40	2001	+	CCC55877.1	myriapod hemocyanin subunit type 1	Archispirostreptus gigas		
+32303685	INSDC	JX456149.1	21	2048	+	AGA17871.1	hemocyanin subunit 1	Macrobrachium nipponense		
+23573226	INSDC	JF802122.1	3	2069	+	AEG64817.1	hemocyanin subunit 6	Eriocheir sinensis		
+28931897	INSDC	HE574801.1	24	1967	+	CCC55879.1	hanseniella audax hemocyanin subunit type 1b	Hanseniella audax		
+28931896	INSDC	HE574800.1	40	1983	+	CCC55878.1	myriapod hemocyanin subunit typ 1a	Hanseniella audax		
+28931894	INSDC	HE574798.1	39	2072	+	CCC55876.1	myriapod hemocyanin subunit type 2	Polydesmus angustus		
+28931893	INSDC	HE574797.1	113	2167	+	CCC55875.1	myriapod hemocyanin subunit type 1	Polydesmus angustus		
+28254193	INSDC	HE650715.1	16	2028	+	CCF55387.1	hemocyanin gamma subunit 1	Caridina multidentata		
+28254191	INSDC	HE650713.1	9	2054	+	CCF55385.1	hemocyanin alpha subunit 2	Caridina multidentata		
+28254190	INSDC	HE650712.1	9	2054	+	CCF55384.1	hemocyanin alpha subunit 1	Caridina multidentata		
+28254189	INSDC	HE650711.1	16	2028	+	CCF55383.1	hemocyanin gamma subunit 1	Atyopsis moluccensis		
+28254188	INSDC	HE650710.1	21	2015	+	CCF55382.1	hemocyanin beta subunit 1	Atyopsis moluccensis		
+28254186	INSDC	HE650708.1	1	1365	+	CCF55380.1	hemocyanin alpha subunit 2	Atyopsis moluccensis		
+28254185	INSDC	HE650707.1	7	2052	+	CCF55379.1	hemocyanin alpha subunit 1	Atyopsis moluccensis		
+26134418	INSDC	FR865926.1	61	1941	+	CCA94928.1	hemocyanin subunit g	Mastigoproctus giganteus		
+26134417	INSDC	FR865925.1	90	1958	+	CCA94927.1	hemocyanin subunit f	Mastigoproctus giganteus		
+26134416	INSDC	FR865924.1	56	1921	+	CCA94926.1	hemocyanin subunit e	Mastigoproctus giganteus		
+26134415	INSDC	FR865923.1	71	1960	+	CCA94925.1	hemocyanin subunit d	Mastigoproctus giganteus		
+26134414	INSDC	FR865922.1	54	1973	+	CCA94924.1	hemocyanin subunit c	Mastigoproctus giganteus		
+26134413	INSDC	FR865921.1	80	1963	+	CCA94923.1	hemocyanin subunit b	Mastigoproctus giganteus		
+26134412	INSDC	FR865920.1	61	1956	+	CCA94922.1	hemocyanin subunit a	Mastigoproctus giganteus		
+26134411	INSDC	FR865919.1	94	1965	+	CCA94921.1	hemocyanin subunit g	Euphrynichus bacillifer		
+26134410	INSDC	FR865918.1	56	1936	+	CCA94920.1	hemocyanin subunit f	Euphrynichus bacillifer		
+26134409	INSDC	FR865917.1	36	1916	+	CCA94919.1	hemocyanin subunit e	Euphrynichus bacillifer		
+26134408	INSDC	FR865916.1	63	1946	+	CCA94918.1	hemocyanin subunit d	Euphrynichus bacillifer		
+26134407	INSDC	FR865915.1	78	1970	+	CCA94917.1	hemocyanin subunit c	Euphrynichus bacillifer		
+26134406	INSDC	FR865914.1	57	1940	+	CCA94916.1	hemocyanin subunit b	Euphrynichus bacillifer		
+26134405	INSDC	FR865913.1	52	1947	+	CCA94915.1	hemocyanin subunit a	Euphrynichus bacillifer		
+26134404	INSDC	FR865912.1	65	1951	+	CCA94914.1	hemocyanin subunit IIIb	Limulus polyphemus		
+26134403	INSDC	FR865911.1	59	1954	+	CCA94913.1	hemocyanin subunit 1	Endeis spinosa		
+23870420	INSDC	HQ213937.1	1	2019	+	ADR82619.1	hemocyanin subunit type 1	Locusta migratoria manilensis		
+19437263	INSDC	FM999831.1	31	1983	+	CAX46431.1	hemocyanin subunit 4 precursor	Odontodactylus scyllarus		
+19437262	INSDC	FM999830.1	38	2026	+	CAX46430.1	hemocyanin subunit 3 precursor	Odontodactylus scyllarus		
+19437260	INSDC	FM999828.1	24	2012	+	CAX46428.1	hemocyanin subunit 1 precursor	Odontodactylus scyllarus		
+19811808	INSDC	GU166298.1	1	2040	+	ADE58573.1	hemocyanin HC4	Limnoria quadripunctata		
+19811807	INSDC	GU166297.1	1	2010	+	ADE58572.1	hemocyanin HC3	Limnoria quadripunctata		
+19811806	INSDC	GU166296.1	1	2037	+	ADE58571.1	hemocyanin HC2	Limnoria quadripunctata		
+19811805	INSDC	GU166295.1	1	2037	+	ADE58570.1	hemocyanin HC1	Limnoria quadripunctata		
+18040030	INSDC	FN424086.1	41	1942	+	CAZ66719.1	hemocyanin subunit 5b	Pandinus imperator		
+18040028	INSDC	FN424084.1	56	1939	+	CAZ66717.1	hemocyanin subunit 5a	Pandinus imperator		
+18040027	INSDC	FN424083.1	45	1922	+	CAZ66716.1	hemocyanin subunit 6	Pandinus imperator		
+18040026	INSDC	FN424082.1	37	1935	+	CAZ66715.1	hemocyanin subunit 3b	Pandinus imperator		
+18040025	INSDC	FN424081.1	24	1937	+	CAZ66714.1	hemocyanin subunit 3c	Pandinus imperator		
+18040023	INSDC	FN424079.1	42	1925	+	CAZ66712.1	hemocyanin subunit 3a	Pandinus imperator		
+18854061	INSDC	FM863711.1	62	2077	+	CAR94713.1	hemocyanin subunit 3 precursor	Xibalbanus tulumensis		
+18854060	INSDC	FM863710.1	53	2071	+	CAR94712.1	hemocyanin subunit 2 precursor	Xibalbanus tulumensis		
+18854059	INSDC	FM863709.1	58	2118	+	CAR94711.1	hemocyanin subunit 1 precursor	Xibalbanus tulumensis		
+15880592	RefSeq	NW_002987834.1	57594	59923	+	XP_002430692.1	hemocyanin subunit, putative	Pediculus humanus corporis	USDA	GCF_000006295.1
+15880592	RefSeq	XM_002430647.1	1	2124	+	XP_002430692.1	hemocyanin subunit, putative	Pediculus humanus corporis	USDA	
+15880592	INSDC	DS235829.1	57594	59923	+	EEB17954.1	hemocyanin subunit, putative	Pediculus humanus corporis	USDA	GCA_000006295.1
+15879611	RefSeq	NW_002987789.1	141446	144467	-	XP_002429710.1	hemocyanin subunit F, putative	Pediculus humanus corporis	USDA	GCF_000006295.1
+15879611	RefSeq	XM_002429665.1	1	2160	+	XP_002429710.1	hemocyanin subunit F, putative	Pediculus humanus corporis	USDA	
+15879611	INSDC	DS235784.1	141446	144467	-	EEB16972.1	hemocyanin subunit F, putative	Pediculus humanus corporis	USDA	GCA_000006295.1
+16431251	INSDC	FM242649.1	50	2104	+	CAR85702.1	hemocyanin subunit type 2 precursor	Periplaneta americana		
+16431250	INSDC	FM242648.1	27	2051	+	CAR85701.1	hemocyanin subunit type 1 precursor	Periplaneta americana		
+16431249	INSDC	FM242647.1	17	2074	+	CAR85700.1	hemocyanin subunit type 2 precursor	Blaptica dubia		
+16431248	INSDC	FM242646.1	9	2045	+	CAR85699.1	hemocyanin subunit type 1 precursor	Blaptica dubia		
+16431247	INSDC	FM242645.1	30	2084	+	CAR85698.1	hemocyanin subunit type 2 precursor	Cryptotermes secundus		
+16431246	INSDC	FM242644.1	26	2059	+	CAR85697.1	hemocyanin subunit type 1 precursor	Cryptotermes secundus		
+16431245	INSDC	FM242643.1	87	2078	+	CAR85696.1	hemocyanin subunit type 2	Hierodula membranacea		
+16431244	INSDC	FM242642.1	99	2081	+	CAR85695.1	hemocyanin subunit type 1	Hierodula membranacea		
+16431243	INSDC	FM242641.1	246	2255	+	CAR85694.1	hemocyanin subunit type 1 precursor	Chelidura acanthopygia		
+16431242	INSDC	FM242640.1	88	2118	+	CAR85693.1	hemocyanin subunit type 1 precursor	Carausius morosus		
+16431241	INSDC	FM242639.1	31	2091	+	CAR85692.1	hemocyanin subunit type 1 precursor	Machilis germanica		
+16431240	INSDC	FM242638.1	38	2056	+	CAR85691.1	hemocyanin subunit type 1 precursor	Sinella curviseta		
+13164283	INSDC	EF375711.1	11	2047	+	ABR14693.1	hemocyanin subunit L	Penaeus japonicus		
+13164282	INSDC	EF375712.1	11	2005	+	ABR14694.1	hemocyanin subunit Y	Penaeus japonicus		
+15051812	INSDC	FM165289.1	239	2215	+	CAQ63322.1	hemocyanin 2	Thermobia domestica		
+15051811	INSDC	FM165288.1	12	2045	+	CAQ63321.1	hemocyanin 1 precursor	Thermobia domestica		
+6711103	INSDC	AM260216.1	29	1945	+	CAJ91100.1	hemocyanin subunit VI	Limulus polyphemus		
+4584957	INSDC	DQ090487.1	54	1940	+	AAZ40338.1	hemocyanin subunit IIIb	Carcinoscorpius rotundicauda		
+4584191	INSDC	DQ090485.1	69	1958	+	AAZ40336.1	hemocyanin subunit II	Carcinoscorpius rotundicauda		
+4583994	INSDC	DQ090486.1	54	1949	+	AAZ40337.1	hemocyanin subunit IIIa	Carcinoscorpius rotundicauda		
+4583546	INSDC	DQ090484.1	93	1967	+	AAZ40335.1	hemocyanin subunit I	Carcinoscorpius rotundicauda		
+4583173	INSDC	DQ090489.1	92	2008	+	AAZ40340.1	hemocyanin subunit V	Carcinoscorpius rotundicauda		
+4583103	INSDC	DQ090490.1	96	1991	+	AAZ40341.1	hemocyanin subunit VI	Carcinoscorpius rotundicauda		
+4581920	INSDC	DQ090488.1	74	1948	+	AAZ40339.1	hemocyanin subunit IV	Carcinoscorpius rotundicauda		
+4763592	INSDC	DQ118369.1	36	2072	+	AAZ99030.1	hemocyanin subunit 1	Perla grandis		
+4734952	INSDC	DQ118370.1	38	2053	+	AAZ99031.1	hemocyanin subunit 2	Perla grandis		
+747835	INSDC	X16650.1	214	406	+	CAA34643.1	hemocyanin e	Aphonopelma sp.		
+747835	INSDC	X16894.1	35	1909	+	CAA34772.1	unnamed protein product	Aphonopelma sp.		
+4027543	INSDC	AY861676.1	19	2007	+	AAW57889.1	hemocyanin subunit 1	Metacarcinus magister		
+4027529	INSDC	AY861678.1	13	2022	+	AAW57891.1	hemocyanin subunit 3	Metacarcinus magister		
+4027527	INSDC	AY861680.1	20	2050	+	AAW57893.1	hemocyanin subunit 5	Metacarcinus magister		
+4027524	INSDC	AY861677.1	19	2010	+	AAW57890.1	hemocyanin subunit 2	Metacarcinus magister		
+4027501	INSDC	AY861679.1	6	2033	+	AAW57892.1	hemocyanin subunit 4	Metacarcinus magister		
+3968162	INSDC	U48881.2	20	2050	+	AAA96966.2	hemocyanin subunit 6	Metacarcinus magister		
+4187051	INSDC	AJ937836.1	70	2088	+	CAI78901.1	hemocyanin subunit 1	Gammarus roeselii		
+1322293	INSDC	AJ547810.1	27	1904	+	CAD68055.1	hemocyanin subunit E	Trichonephila inaurata madagascariensis		
+1244610	INSDC	AJ547809.1	25	1908	+	CAD68054.1	hemocyanin subunit D	Trichonephila inaurata madagascariensis		
+1234976	INSDC	AJ547808.1	23	1909	+	CAD68053.1	hemocyanin subunit B	Trichonephila inaurata madagascariensis		
+995736	INSDC	AJ307911.1	49	1929	+	CAC44757.1	hemocyanin subunit 6''	Cupiennius salei		
+718678	INSDC	AJ307910.1	47	1927	+	CAC44756.1	hemocyanin subunit 6'	Cupiennius salei		
+697109	INSDC	AJ307909.1	45	1925	+	CAC44755.1	hemocyanin subunit 6	Cupiennius salei		
+662891	INSDC	AJ307907.1	68	1948	+	CAC44753.1	hemocyanin subunit 5	Cupiennius salei		
+594263	INSDC	AJ547811.1	29	1909	+	CAD68056.1	hemocyanin subunit F	Trichonephila inaurata madagascariensis		
+590972	INSDC	AJ297738.1	66	2027	+	CAC33894.1	hemocyanin subunit 1	Spirostreptus sp. BT-2000		
+589068	INSDC	AJ547812.1	41	1921	+	CAD68057.1	hemocyanin subunit G	Trichonephila inaurata madagascariensis		
+537518	INSDC	AJ547807.1	38	1930	+	CAD68052.1	hemocyanin subunit A	Trichonephila inaurata madagascariensis		
+438065	INSDC	AJ307904.1	66	1946	+	CAC44750.1	hemocyanin subunit 2	Cupiennius salei		
+176686	INSDC	AJ307908.1	68	1948	+	CAC44754.1	hemocyanin subunit 5'	Cupiennius salei		
+95502	INSDC	AJ516004.1	6	2063	+	CAD56697.1	hemocyanin subunit 4	Palinurus elephas		
+29515	INSDC	AJ307905.1	67	1947	+	CAC44751.1	hemocyanin subunit 3	Cupiennius salei		
+15084	INSDC	AJ307906.1	68	1948	+	CAC44752.1	hemocyanin subunit 4	Cupiennius salei		
+1852452	INSDC	AY193781.1	1	2064	+	AAO47336.1	hemocyanin 2	Pacifastacus leniusculus		
+1948184	INSDC	AJ555404.1	17	2032	+	CAD87763.1	hemocyanin subunit 2	Perla marginata		
+1948059	INSDC	AJ555403.1	20	2056	+	CAD87762.1	hemocyanin subunit 1	Perla marginata		
+84378	INSDC	AF249297.1	20	2050	+	AAF64305.1	hemocyanin subunit	Callinectes sapidus		
+360852	PIR	N/A				BHTLA	hemocyanin chain a	Aphonopelma californicum (nomen dubium)		
+801199	INSDC	N/A				AAB36150.1	hemocyanin subunit HR6	Carcinoscorpius rotundicauda		
+634215	INSDC	N/A				AAB22190.1	hemocyanin subunit c	Panulirus interruptus		
