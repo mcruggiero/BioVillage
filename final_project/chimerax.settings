@@ -11,4 +11,4 @@ turn y 1 120; wait 120;
 zoom 1.45 120; turn y 1 120; wait 120;
 transparency #1/C 85 cartoons; show #1/C:2959-2964 atoms;
 color byatom; turn y 1 120; wait 120;
-movie encode ~/Desktop/test.mp4
+movie encode ~/Desktop/test.mp4 quality medium
