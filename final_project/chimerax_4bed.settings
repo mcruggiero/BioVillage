@@ -1,0 +1,26 @@
+movie record;
+hide cartoons; show atoms; color byatom; style sphere; lighting soft;
+turn y 1 120; zoom 1.10 120; wait 120;
+show cartoons; hide atoms; show Cu atoms; size Cu atomRadius 2.5
+turn y 1 120; wait 120;
+color /C green; color byatom; transparency 85 cartoons; transparency /C 0 cartoons;
+turn y 1 120; zoom 1.10 120; wait 120;
+transparency 85 cartoons;
+show #1/C:60-63 atoms; style #1/C:60-63 sphere; size #1/C:60-63 atomRadius 2
+turn y 1 120; wait 120;
+show ::name="HIS" atoms; style ::name="HIS" sphere;
+turn y 1 180; wait 180; zoom 1.10 180;
+movie encode ~/Desktop/test.mp4 quality medium
+
+
+show #1:3400-3410 atoms; style #1:3400-3410 sphere;
+size #1:3400-3410 atomRadius 2.5; color green cartoons;
+turn y 1 120; wait 120;
+color white cartoons; color #1/C green cartoons;
+turn y 1 100; wait 100;
+transparency 85 cartoons; transparency #1/C 0 cartoons;
+turn y 1 120; wait 120;
+zoom 1.45 120; turn y 1 120; wait 120;
+transparency #1/C 85 cartoons; show #1/C:2959-2964 atoms;
+color byatom; turn y 1 120; wait 120;
+movie encode ~/Desktop/test.mp4 quality medium

@@ -1,0 +1,14 @@
+color byatom; lighting soft;
+movie record; zoom 1.75 120;
+turn y 1 120; wait 120;
+show cartoons; hide atoms; show #1:3400-3410 atoms; style #1:3400-3410 sphere;
+size #1:3400-3410 atomRadius 2.5; color green cartoons;
+turn y 1 120; wait 120;
+color white cartoons; color #1/C green cartoons;
+turn y 1 100; wait 100;
+transparency 85 cartoons; transparency #1/C 0 cartoons;
+turn y 1 120; wait 120;
+zoom 1.45 120; turn y 1 120; wait 120;
+transparency #1/C 85 cartoons; show #1/C:2959-2964 atoms;
+color byatom; turn y 1 120; wait 120;
+movie encode ~/Desktop/test.mp4 quality medium
