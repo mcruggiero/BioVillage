@@ -3,8 +3,13 @@ hide cartoons; hide atoms; show Cu atoms; style Cu sphere; size Cu atomRadius 2.
 delete #1.2-10; delete #1.1/B-D;
 delete #2/B-d
 show #1.1/A cartoons; color #1.1/A hot pink;
-turn y 1 120; zoom 1.5 120; wait 120;
-hide cartoons; show #2/A cartoons; color #2/A blue;
+turn y 1 120; move y .55 120; zoom 1.45 120; wait 120;
+hide cartoons; show #2/A cartoons; color #2/A blue; color Cu byatom
 turn y 1 120; wait 120;
 mm #1.1/A to #2/A; show #1.1/A cartoons; turn y 1 360; wait 360;
-morph #1,2
+transparency 50 cartoons;
+morph #1,2 frames 120; color #3 white; wait 120;
+transparency 50 cartoons; show #!1.1/A models; turn y 1 120; wait 120;
+show #!2 models; hide #!2 atoms; turn y 1 120; wait 120;
+turn y 1 360; wait 360;
+movie encode ~/Desktop/test.mp4 quality medium
