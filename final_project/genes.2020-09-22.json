@@ -1,0 +1,5207 @@
+[{
+  "is_cancer_gene_census": "true", 
+  "name": "echinoderm microtubule associated protein like 4", 
+  "symbol": "EML4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p21"
+  ], 
+  "gene_id": "ENSG00000143924"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "spen family transcriptional repressor", 
+  "symbol": "SPEN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.21", 
+    "1p36.13"
+  ], 
+  "gene_id": "ENSG00000065526"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ATR serine/threonine kinase", 
+  "symbol": "ATR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q23"
+  ], 
+  "gene_id": "ENSG00000175054"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homeobox D11", 
+  "symbol": "HOXD11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q31.1"
+  ], 
+  "gene_id": "ENSG00000128713"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Shwachman-Bodian-Diamond syndrome", 
+  "symbol": "SBDS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q11.21"
+  ], 
+  "gene_id": "ENSG00000126524"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "meningioma (disrupted in balanced translocation) 1", 
+  "symbol": "MN1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q12.1"
+  ], 
+  "gene_id": "ENSG00000169184"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "family with sequence similarity 46, member C", 
+  "symbol": "FAM46C", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p12"
+  ], 
+  "gene_id": "ENSG00000183508"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mucin 1, cell surface associated", 
+  "symbol": "MUC1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q22"
+  ], 
+  "gene_id": "ENSG00000185499"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "synovial sarcoma, X breakpoint 2", 
+  "symbol": "SSX2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.22"
+  ], 
+  "gene_id": "ENSG00000241476"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "hes-related family bHLH transcription factor with YRPW motif 1", 
+  "symbol": "HEY1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q21.13"
+  ], 
+  "gene_id": "ENSG00000164683"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa", 
+  "symbol": "SDHC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q23.3"
+  ], 
+  "gene_id": "ENSG00000143252"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "excision repair cross-complementation group 2", 
+  "symbol": "ERCC2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.32"
+  ], 
+  "gene_id": "ENSG00000104884"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "GATA binding protein 2", 
+  "symbol": "GATA2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q21.3"
+  ], 
+  "gene_id": "ENSG00000179348"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transcription factor 12", 
+  "symbol": "TCF12", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q21.3"
+  ], 
+  "gene_id": "ENSG00000140262"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "bromodomain containing 3", 
+  "symbol": "BRD3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.2"
+  ], 
+  "gene_id": "ENSG00000169925"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lymphoid enhancer-binding factor 1", 
+  "symbol": "LEF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q25"
+  ], 
+  "gene_id": "ENSG00000138795"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "chimerin 1", 
+  "symbol": "CHN1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q31.1"
+  ], 
+  "gene_id": "ENSG00000128656"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tripartite motif containing 27", 
+  "symbol": "TRIM27", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p22.1"
+  ], 
+  "gene_id": "ENSG00000204713"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta", 
+  "symbol": "IKBKB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p11.21"
+  ], 
+  "gene_id": "ENSG00000104365"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger, CCHC domain containing 8", 
+  "symbol": "ZCCHC8", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.31"
+  ], 
+  "gene_id": "ENSG00000033030"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "clathrin, heavy chain-like 1", 
+  "symbol": "CLTCL1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q11.21"
+  ], 
+  "gene_id": "ENSG00000070371"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "oligodendrocyte lineage transcription factor 2", 
+  "symbol": "OLIG2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "21q22.11"
+  ], 
+  "gene_id": "ENSG00000205927"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "capicua transcriptional repressor", 
+  "symbol": "CIC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.2"
+  ], 
+  "gene_id": "ENSG00000079432"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "potassium channel, inwardly rectifying subfamily J, member 5", 
+  "symbol": "KCNJ5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q24.3"
+  ], 
+  "gene_id": "ENSG00000120457"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PMS1 postmeiotic segregation increased 1 (S. cerevisiae)", 
+  "symbol": "PMS1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q32.2"
+  ], 
+  "gene_id": "ENSG00000064933"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 2", 
+  "symbol": "BCL2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q21.33"
+  ], 
+  "gene_id": "ENSG00000171791"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ATPase, Ca++ transporting, plasma membrane 3", 
+  "symbol": "ATP2B3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq28"
+  ], 
+  "gene_id": "ENSG00000067842"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Wiskott-Aldrich syndrome", 
+  "symbol": "WAS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.23"
+  ], 
+  "gene_id": "ENSG00000015285"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Werner syndrome, RecQ helicase-like", 
+  "symbol": "WRN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p12"
+  ], 
+  "gene_id": "ENSG00000165392"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "hepatic leukemia factor", 
+  "symbol": "HLF", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q22"
+  ], 
+  "gene_id": "ENSG00000108924"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mastermind-like 2 (Drosophila)", 
+  "symbol": "MAML2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q21"
+  ], 
+  "gene_id": "ENSG00000184384"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "neurofibromin 2 (merlin)", 
+  "symbol": "NF2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q12.2"
+  ], 
+  "gene_id": "ENSG00000186575"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-akt murine thymoma viral oncogene homolog 2", 
+  "symbol": "AKT2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.2"
+  ], 
+  "gene_id": "ENSG00000105221"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Rho GTPase activating protein 26", 
+  "symbol": "ARHGAP26", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q31.3"
+  ], 
+  "gene_id": "ENSG00000145819"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CREB regulated transcription coactivator 3", 
+  "symbol": "CRTC3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q26.1"
+  ], 
+  "gene_id": "ENSG00000140577"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "DNA-damage-inducible transcript 3", 
+  "symbol": "DDIT3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.3"
+  ], 
+  "gene_id": "ENSG00000175197"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fanconi anemia, complementation group A", 
+  "symbol": "FANCA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q24.3"
+  ], 
+  "gene_id": "ENSG00000187741"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cleavage and polyadenylation factor I subunit 1", 
+  "symbol": "CLP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q12.1"
+  ], 
+  "gene_id": "ENSG00000172409"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "isocitrate dehydrogenase 2 (NADP+), mitochondrial", 
+  "symbol": "IDH2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q26.1"
+  ], 
+  "gene_id": "ENSG00000182054"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "staphylococcal nuclease and tudor domain containing 1", 
+  "symbol": "SND1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q32.1"
+  ], 
+  "gene_id": "ENSG00000197157"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "neurofibromin 1", 
+  "symbol": "NF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q11.2"
+  ], 
+  "gene_id": "ENSG00000196712"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "clathrin, heavy chain (Hc)", 
+  "symbol": "CLTC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q23.1"
+  ], 
+  "gene_id": "ENSG00000141367"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "synovial sarcoma translocation gene on chromosome 18-like 1", 
+  "symbol": "SS18L1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q13.33"
+  ], 
+  "gene_id": "ENSG00000184402"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "interferon regulatory factor 4", 
+  "symbol": "IRF4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p25.3"
+  ], 
+  "gene_id": "ENSG00000137265"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "chromosome 2 open reading frame 44", 
+  "symbol": "C2orf44", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p23.3"
+  ], 
+  "gene_id": "ENSG00000163026"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "exostosin glycosyltransferase 2", 
+  "symbol": "EXT2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p11.2"
+  ], 
+  "gene_id": "ENSG00000151348"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin D2", 
+  "symbol": "CCND2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p13.32"
+  ], 
+  "gene_id": "ENSG00000118971"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "osteomodulin", 
+  "symbol": "OMD", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q22.31"
+  ], 
+  "gene_id": "ENSG00000127083"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "K(lysine) acetyltransferase 6A", 
+  "symbol": "KAT6A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p11.21"
+  ], 
+  "gene_id": "ENSG00000083168"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "NUT family member 2B", 
+  "symbol": "NUTM2B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q22.3"
+  ], 
+  "gene_id": "ENSG00000188199"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "erb-b2 receptor tyrosine kinase 4", 
+  "symbol": "ERBB4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q34"
+  ], 
+  "gene_id": "ENSG00000178568"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "xeroderma pigmentosum, complementation group A", 
+  "symbol": "XPA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q22.33"
+  ], 
+  "gene_id": "ENSG00000136936"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RNA binding motif protein 15", 
+  "symbol": "RBM15", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p13.3"
+  ], 
+  "gene_id": "ENSG00000162775"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "hook microtubule-tethering protein 3", 
+  "symbol": "HOOK3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p11.21"
+  ], 
+  "gene_id": "ENSG00000168172"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "enhancer of zeste 2 polycomb repressive complex 2 subunit", 
+  "symbol": "EZH2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q36.1"
+  ], 
+  "gene_id": "ENSG00000106462"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "additional sex combs like transcriptional regulator 1", 
+  "symbol": "ASXL1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q11.21"
+  ], 
+  "gene_id": "ENSG00000171456"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "R-spondin 2", 
+  "symbol": "RSPO2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q23.1"
+  ], 
+  "gene_id": "ENSG00000147655"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cAMP responsive element binding protein 1", 
+  "symbol": "CREB1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q33.3"
+  ], 
+  "gene_id": "ENSG00000118260"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "paired box 5", 
+  "symbol": "PAX5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p13.2"
+  ], 
+  "gene_id": "ENSG00000196092"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "activating transcription factor 1", 
+  "symbol": "ATF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.12"
+  ], 
+  "gene_id": "ENSG00000123268"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "paired box 7", 
+  "symbol": "PAX7", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.13"
+  ], 
+  "gene_id": "ENSG00000009709"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "phosphatase and tensin homolog", 
+  "symbol": "PTEN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q23.31"
+  ], 
+  "gene_id": "ENSG00000171862"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-Raf proto-oncogene, serine/threonine kinase", 
+  "symbol": "BRAF", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q34"
+  ], 
+  "gene_id": "ENSG00000157764"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ribophorin I", 
+  "symbol": "RPN1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q21.3"
+  ], 
+  "gene_id": "ENSG00000163902"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "pre-B-cell leukemia homeobox 1", 
+  "symbol": "PBX1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q23.3"
+  ], 
+  "gene_id": "ENSG00000185630"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "eukaryotic translation initiation factor 3, subunit E", 
+  "symbol": "EIF3E", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q23.1"
+  ], 
+  "gene_id": "ENSG00000104408"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mitogen-activated protein kinase kinase 1", 
+  "symbol": "MAP2K1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q22.31"
+  ], 
+  "gene_id": "ENSG00000169032"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "N-myc downstream regulated 1", 
+  "symbol": "NDRG1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q24.22"
+  ], 
+  "gene_id": "ENSG00000104419"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "papillary renal cell carcinoma (translocation-associated)", 
+  "symbol": "PRCC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q23.1"
+  ], 
+  "gene_id": "ENSG00000143294"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "caspase recruitment domain family, member 11", 
+  "symbol": "CARD11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p22.2"
+  ], 
+  "gene_id": "ENSG00000198286"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lysine (K)-specific demethylase 6A", 
+  "symbol": "KDM6A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.3"
+  ], 
+  "gene_id": "ENSG00000147050"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "synovial sarcoma translocation, chromosome 18", 
+  "symbol": "SS18", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q11.2"
+  ], 
+  "gene_id": "ENSG00000141380"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "golgin A5", 
+  "symbol": "GOLGA5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q32.12"
+  ], 
+  "gene_id": "ENSG00000066455"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "bone morphogenetic protein receptor, type IA", 
+  "symbol": "BMPR1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q23.2"
+  ], 
+  "gene_id": "ENSG00000107779"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "splicing factor 3b, subunit 1, 155kDa", 
+  "symbol": "SF3B1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q33.1"
+  ], 
+  "gene_id": "ENSG00000115524"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lipoma HMGIC fusion partner", 
+  "symbol": "LHFP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q13.3", 
+    "13q14.11"
+  ], 
+  "gene_id": "ENSG00000183722"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nucleophosmin (nucleolar phosphoprotein B23, numatrin)", 
+  "symbol": "NPM1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q35.1"
+  ], 
+  "gene_id": "ENSG00000181163"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "non-POU domain containing, octamer-binding", 
+  "symbol": "NONO", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq13.1"
+  ], 
+  "gene_id": "ENSG00000147140"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "aryl hydrocarbon receptor nuclear translocator", 
+  "symbol": "ARNT", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q21.3"
+  ], 
+  "gene_id": "ENSG00000143437"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tet methylcytosine dioxygenase 1", 
+  "symbol": "TET1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q21.3"
+  ], 
+  "gene_id": "ENSG00000138336"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cytokine receptor-like factor 2", 
+  "symbol": "CRLF2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp22.33"
+  ], 
+  "gene_id": "ENSG00000205755"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "excision repair cross-complementation group 5", 
+  "symbol": "ERCC5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q33.1"
+  ], 
+  "gene_id": "ENSG00000134899"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "GATA binding protein 1 (globin transcription factor 1)", 
+  "symbol": "GATA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.23"
+  ], 
+  "gene_id": "ENSG00000102145"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "DEAD (Asp-Glu-Ala-Asp) box polypeptide 10", 
+  "symbol": "DDX10", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q22.3"
+  ], 
+  "gene_id": "ENSG00000178105"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mutL homolog 1", 
+  "symbol": "MLH1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p22.2"
+  ], 
+  "gene_id": "ENSG00000076242"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tuberous sclerosis 1", 
+  "symbol": "TSC1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.13"
+  ], 
+  "gene_id": "ENSG00000165699"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein kinase, cAMP-dependent, regulatory, type I, alpha", 
+  "symbol": "PRKAR1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q24.2"
+  ], 
+  "gene_id": "ENSG00000108946"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homeobox D13", 
+  "symbol": "HOXD13", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q31.1"
+  ], 
+  "gene_id": "ENSG00000128714"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PR domain containing 16", 
+  "symbol": "PRDM16", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.32"
+  ], 
+  "gene_id": "ENSG00000142611"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CCR4-NOT transcription complex, subunit 3", 
+  "symbol": "CNOT3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.42"
+  ], 
+  "gene_id": "ENSG00000088038"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "kallikrein-related peptidase 2", 
+  "symbol": "KLK2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.33"
+  ], 
+  "gene_id": "ENSG00000167751"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ROS proto-oncogene 1 , receptor tyrosine kinase", 
+  "symbol": "ROS1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q22.1"
+  ], 
+  "gene_id": "ENSG00000047936"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "pericentriolar material 1", 
+  "symbol": "PCM1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p22"
+  ], 
+  "gene_id": "ENSG00000078674"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "exportin 1", 
+  "symbol": "XPO1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p15"
+  ], 
+  "gene_id": "ENSG00000082898"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cadherin 1, type 1, E-cadherin (epithelial)", 
+  "symbol": "CDH1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q22.1"
+  ], 
+  "gene_id": "ENSG00000039068"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "isocitrate dehydrogenase 1 (NADP+), soluble", 
+  "symbol": "IDH1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q34"
+  ], 
+  "gene_id": "ENSG00000138413"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "NGFI-A binding protein 2 (EGR1 binding protein 2)", 
+  "symbol": "NAB2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.3"
+  ], 
+  "gene_id": "ENSG00000166886"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "heterogeneous nuclear ribonucleoprotein A2/B1", 
+  "symbol": "HNRNPA2B1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p15.2"
+  ], 
+  "gene_id": "ENSG00000122566"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "interleukin 21 receptor", 
+  "symbol": "IL21R", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p12.1"
+  ], 
+  "gene_id": "ENSG00000103522"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "von Hippel-Lindau tumor suppressor, E3 ubiquitin protein ligase", 
+  "symbol": "VHL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p25.3"
+  ], 
+  "gene_id": "ENSG00000134086"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "translocated promoter region, nuclear basket protein", 
+  "symbol": "TPR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q31.1"
+  ], 
+  "gene_id": "ENSG00000047410"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fms-related tyrosine kinase 3", 
+  "symbol": "FLT3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q12.2"
+  ], 
+  "gene_id": "ENSG00000122025"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "vesicle transport through interaction with t-SNAREs 1A", 
+  "symbol": "VTI1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q25.2"
+  ], 
+  "gene_id": "ENSG00000151532"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "epidermal growth factor receptor", 
+  "symbol": "EGFR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p11.2"
+  ], 
+  "gene_id": "ENSG00000146648"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "POU class 2 associating factor 1", 
+  "symbol": "POU2AF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.1"
+  ], 
+  "gene_id": "ENSG00000110777"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "KIAA1598", 
+  "symbol": "KIAA1598", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q25.3"
+  ], 
+  "gene_id": "ENSG00000187164"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cell division cycle 73", 
+  "symbol": "CDC73", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q31.2"
+  ], 
+  "gene_id": "ENSG00000134371"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "erb-b2 receptor tyrosine kinase 3", 
+  "symbol": "ERBB3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.2"
+  ], 
+  "gene_id": "ENSG00000065361"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase", 
+  "symbol": "MAP3K1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q11.2"
+  ], 
+  "gene_id": "ENSG00000095015"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase", 
+  "symbol": "FBXW7", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q31.3"
+  ], 
+  "gene_id": "ENSG00000109670"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase)", 
+  "symbol": "BAP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p21.1"
+  ], 
+  "gene_id": "ENSG00000163930"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog", 
+  "symbol": "KIT", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q12"
+  ], 
+  "gene_id": "ENSG00000157404"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ethanolamine kinase 1", 
+  "symbol": "ETNK1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p12.1"
+  ], 
+  "gene_id": "ENSG00000139163"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "phosphatidylinositol binding clathrin assembly protein", 
+  "symbol": "PICALM", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q14.2"
+  ], 
+  "gene_id": "ENSG00000073921"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "colony stimulating factor 3 receptor (granulocyte)", 
+  "symbol": "CSF3R", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p34.3"
+  ], 
+  "gene_id": "ENSG00000119535"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "MDM2 proto-oncogene, E3 ubiquitin protein ligase", 
+  "symbol": "MDM2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q15"
+  ], 
+  "gene_id": "ENSG00000135679"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "leukemia inhibitory factor receptor alpha", 
+  "symbol": "LIFR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5p13.1"
+  ], 
+  "gene_id": "ENSG00000113594"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "alpha thalassemia/mental retardation syndrome X-linked", 
+  "symbol": "ATRX", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq21.1"
+  ], 
+  "gene_id": "ENSG00000085224"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mitogen-activated protein kinase kinase kinase 13", 
+  "symbol": "MAP3K13", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q27.2"
+  ], 
+  "gene_id": "ENSG00000073803"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "partner and localizer of BRCA2", 
+  "symbol": "PALB2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p12.2"
+  ], 
+  "gene_id": "ENSG00000083093"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "septin 6", 
+  "symbol": "SEPT6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq24"
+  ], 
+  "gene_id": "ENSG00000125354"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ets variant 1", 
+  "symbol": "ETV1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p21.2"
+  ], 
+  "gene_id": "ENSG00000006468"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "elastin", 
+  "symbol": "ELN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q11.23"
+  ], 
+  "gene_id": "ENSG00000049540"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 1", 
+  "symbol": "MLLT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.3"
+  ], 
+  "gene_id": "ENSG00000130382"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "5'-nucleotidase, cytosolic II", 
+  "symbol": "NT5C2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q24.32", 
+    "10q24.33"
+  ], 
+  "gene_id": "ENSG00000076685"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ABL proto-oncogene 2, non-receptor tyrosine kinase", 
+  "symbol": "ABL2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q25.2"
+  ], 
+  "gene_id": "ENSG00000143322"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "interleukin 2", 
+  "symbol": "IL2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q27"
+  ], 
+  "gene_id": "ENSG00000109471"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-akt murine thymoma viral oncogene homolog 1", 
+  "symbol": "AKT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q32.33"
+  ], 
+  "gene_id": "ENSG00000142208"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "AF4/FMR2 family, member 3", 
+  "symbol": "AFF3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q11.2"
+  ], 
+  "gene_id": "ENSG00000144218"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "BCL6 corepressor", 
+  "symbol": "BCOR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.4"
+  ], 
+  "gene_id": "ENSG00000183337"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger, MYM-type 2", 
+  "symbol": "ZMYM2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q12.11"
+  ], 
+  "gene_id": "ENSG00000121741"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PTPRF interacting protein, binding protein 1 (liprin beta 1)", 
+  "symbol": "PPFIBP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p11.23", 
+    "12p11.22"
+  ], 
+  "gene_id": "ENSG00000110841"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ribosomal protein L10", 
+  "symbol": "RPL10", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq28"
+  ], 
+  "gene_id": "ENSG00000147403"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "heat shock protein 90kDa alpha (cytosolic), class B member 1", 
+  "symbol": "HSP90AB1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.1"
+  ], 
+  "gene_id": "ENSG00000096384"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "succinate dehydrogenase complex, subunit B, iron sulfur (Ip)", 
+  "symbol": "SDHB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.13"
+  ], 
+  "gene_id": "ENSG00000117118"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "APC membrane recruitment protein 1", 
+  "symbol": "AMER1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq11.2"
+  ], 
+  "gene_id": "ENSG00000184675"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ubiquitin protein ligase E3 component n-recognin 5", 
+  "symbol": "UBR5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q22.3"
+  ], 
+  "gene_id": "ENSG00000104517"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "BRCA1 interacting protein C-terminal helicase 1", 
+  "symbol": "BRIP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q23.2"
+  ], 
+  "gene_id": "ENSG00000136492"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fc fragment of IgG, low affinity IIb, receptor (CD32)", 
+  "symbol": "FCGR2B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q23.3"
+  ], 
+  "gene_id": "ENSG00000072694"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "platelet-derived growth factor receptor, alpha polypeptide", 
+  "symbol": "PDGFRA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q12"
+  ], 
+  "gene_id": "ENSG00000134853"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear receptor coactivator 1", 
+  "symbol": "NCOA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p23.3"
+  ], 
+  "gene_id": "ENSG00000084676"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "interleukin 6 signal transducer", 
+  "symbol": "IL6ST", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q11.2"
+  ], 
+  "gene_id": "ENSG00000134352"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 11B (zinc finger protein)", 
+  "symbol": "BCL11B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q32.2"
+  ], 
+  "gene_id": "ENSG00000127152"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CD74 molecule, major histocompatibility complex, class II invariant chain", 
+  "symbol": "CD74", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q33.1"
+  ], 
+  "gene_id": "ENSG00000019582"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "epidermal growth factor receptor pathway substrate 15", 
+  "symbol": "EPS15", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p32.3"
+  ], 
+  "gene_id": "ENSG00000085832"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SET binding protein 1", 
+  "symbol": "SETBP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q12.3"
+  ], 
+  "gene_id": "ENSG00000152217"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "high mobility group AT-hook 2", 
+  "symbol": "HMGA2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q14.3"
+  ], 
+  "gene_id": "ENSG00000149948"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cadherin 11, type 2, OB-cadherin (osteoblast)", 
+  "symbol": "CDH11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q21"
+  ], 
+  "gene_id": "ENSG00000140937"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homeobox A9", 
+  "symbol": "HOXA9", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p15.2"
+  ], 
+  "gene_id": "ENSG00000078399"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cytochrome c oxidase subunit VIc", 
+  "symbol": "COX6C", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q22.2"
+  ], 
+  "gene_id": "ENSG00000164919"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "septin 5", 
+  "symbol": "SEPT5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q11.21"
+  ], 
+  "gene_id": "ENSG00000184702"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Wolf-Hirschhorn syndrome candidate 1-like 1", 
+  "symbol": "WHSC1L1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p11.23"
+  ], 
+  "gene_id": "ENSG00000147548"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "androgen receptor", 
+  "symbol": "AR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq12"
+  ], 
+  "gene_id": "ENSG00000169083"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "core-binding factor, runt domain, alpha subunit 2; translocated to, 3", 
+  "symbol": "CBFA2T3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q24.3"
+  ], 
+  "gene_id": "ENSG00000129993"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1", 
+  "symbol": "SMARCD1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.12"
+  ], 
+  "gene_id": "ENSG00000066117"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "NUT midline carcinoma, family member 1", 
+  "symbol": "NUTM1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q14"
+  ], 
+  "gene_id": "ENSG00000184507"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myogenic differentiation 1", 
+  "symbol": "MYOD1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p15.1"
+  ], 
+  "gene_id": "ENSG00000129152"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "neuroblastoma RAS viral (v-ras) oncogene homolog", 
+  "symbol": "NRAS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p13.2"
+  ], 
+  "gene_id": "ENSG00000213281"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SH3-domain GRB2-like 1", 
+  "symbol": "SH3GL1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.3"
+  ], 
+  "gene_id": "ENSG00000141985"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ELK4, ETS-domain protein (SRF accessory protein 1)", 
+  "symbol": "ELK4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q32.1"
+  ], 
+  "gene_id": "ENSG00000158711"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "FEV (ETS oncogene family)", 
+  "symbol": "FEV", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q35"
+  ], 
+  "gene_id": "ENSG00000163497"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "far upstream element (FUSE) binding protein 1", 
+  "symbol": "FUBP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p31.1"
+  ], 
+  "gene_id": "ENSG00000162613"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CD79b molecule, immunoglobulin-associated beta", 
+  "symbol": "CD79B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q23.3"
+  ], 
+  "gene_id": "ENSG00000007312"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "synovial sarcoma, X breakpoint 1", 
+  "symbol": "SSX1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.23"
+  ], 
+  "gene_id": "ENSG00000126752"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Wilms tumor 1", 
+  "symbol": "WT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p13"
+  ], 
+  "gene_id": "ENSG00000184937"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear receptor coactivator 2", 
+  "symbol": "NCOA2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q13.3"
+  ], 
+  "gene_id": "ENSG00000140396"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "checkpoint kinase 2", 
+  "symbol": "CHEK2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q12.1"
+  ], 
+  "gene_id": "ENSG00000183765"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein tyrosine phosphatase, receptor type, B", 
+  "symbol": "PTPRB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q15"
+  ], 
+  "gene_id": "ENSG00000127329"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homeobox A11", 
+  "symbol": "HOXA11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p15.2"
+  ], 
+  "gene_id": "ENSG00000005073"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ras homolog family member H", 
+  "symbol": "RHOH", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4p14"
+  ], 
+  "gene_id": "ENSG00000168421"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "anaplastic lymphoma receptor tyrosine kinase", 
+  "symbol": "ALK", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p23.2", 
+    "2p23.1"
+  ], 
+  "gene_id": "ENSG00000171094"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10", 
+  "symbol": "MLLT10", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10p12.31"
+  ], 
+  "gene_id": "ENSG00000078403"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "class II, major histocompatibility complex, transactivator", 
+  "symbol": "CIITA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.13"
+  ], 
+  "gene_id": "ENSG00000179583"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fibroblast growth factor receptor 3", 
+  "symbol": "FGFR3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4p16.3"
+  ], 
+  "gene_id": "ENSG00000068078"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "thyroid stimulating hormone receptor", 
+  "symbol": "TSHR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q31.1"
+  ], 
+  "gene_id": "ENSG00000165409"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RNA binding motif protein 10", 
+  "symbol": "RBM10", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.3"
+  ], 
+  "gene_id": "ENSG00000182872"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "signal transducer and activator of transcription 5B", 
+  "symbol": "STAT5B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.2"
+  ], 
+  "gene_id": "ENSG00000173757"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tuberous sclerosis 2", 
+  "symbol": "TSC2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.3"
+  ], 
+  "gene_id": "ENSG00000103197"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "chemokine (C-X-C motif) receptor 4", 
+  "symbol": "CXCR4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q22.1"
+  ], 
+  "gene_id": "ENSG00000121966"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "bromodomain containing 4", 
+  "symbol": "BRD4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.12"
+  ], 
+  "gene_id": "ENSG00000141867"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myeloid differentiation primary response 88", 
+  "symbol": "MYD88", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p22.2"
+  ], 
+  "gene_id": "ENSG00000172936"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "K(lysine) acetyltransferase 6B", 
+  "symbol": "KAT6B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q22.2"
+  ], 
+  "gene_id": "ENSG00000156650"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "kinesin family member 5B", 
+  "symbol": "KIF5B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10p11.22"
+  ], 
+  "gene_id": "ENSG00000170759"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)", 
+  "symbol": "NFKB2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q24.32"
+  ], 
+  "gene_id": "ENSG00000077150"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4", 
+  "symbol": "MLLT4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q27"
+  ], 
+  "gene_id": "ENSG00000130396"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ring finger protein 213", 
+  "symbol": "RNF213", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q25.3"
+  ], 
+  "gene_id": "ENSG00000173821"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transforming growth factor, beta receptor II (70/80kDa)", 
+  "symbol": "TGFBR2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p24.1"
+  ], 
+  "gene_id": "ENSG00000163513"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "suppressor of cytokine signaling 1", 
+  "symbol": "SOCS1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.13"
+  ], 
+  "gene_id": "ENSG00000185338"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tripartite motif containing 33", 
+  "symbol": "TRIM33", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p13.2"
+  ], 
+  "gene_id": "ENSG00000197323"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "DEAD (Asp-Glu-Ala-Asp) box helicase 6", 
+  "symbol": "DDX6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.3"
+  ], 
+  "gene_id": "ENSG00000110367"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "moesin", 
+  "symbol": "MSN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq12"
+  ], 
+  "gene_id": "ENSG00000147065"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "retinoic acid receptor, alpha", 
+  "symbol": "RARA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.2"
+  ], 
+  "gene_id": "ENSG00000131759"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ets variant 4", 
+  "symbol": "ETV4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.31"
+  ], 
+  "gene_id": "ENSG00000175832"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "programmed cell death 1 ligand 2", 
+  "symbol": "PDCD1LG2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p24.1"
+  ], 
+  "gene_id": "ENSG00000197646"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "glutamate receptor, ionotropic, N-methyl D-aspartate 2A", 
+  "symbol": "GRIN2A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.2"
+  ], 
+  "gene_id": "ENSG00000183454"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear receptor corepressor 1", 
+  "symbol": "NCOR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p12", 
+    "17p11.2"
+  ], 
+  "gene_id": "ENSG00000141027"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Cbl proto-oncogene B, E3 ubiquitin protein ligase", 
+  "symbol": "CBLB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q13.11"
+  ], 
+  "gene_id": "ENSG00000114423"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 7A", 
+  "symbol": "BCL7A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.31"
+  ], 
+  "gene_id": "ENSG00000110987"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "solute carrier family 34 (type II sodium/phosphate cotransporter), member 2", 
+  "symbol": "SLC34A2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4p15.2"
+  ], 
+  "gene_id": "ENSG00000157765"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fibroblast growth factor receptor 4", 
+  "symbol": "FGFR4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q35.2"
+  ], 
+  "gene_id": "ENSG00000160867"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "adenomatous polyposis coli", 
+  "symbol": "APC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q22.2"
+  ], 
+  "gene_id": "ENSG00000134982"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4", 
+  "symbol": "SMARCA4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.2"
+  ], 
+  "gene_id": "ENSG00000127616"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "microphthalmia-associated transcription factor", 
+  "symbol": "MITF", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p13"
+  ], 
+  "gene_id": "ENSG00000187098"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger protein 521", 
+  "symbol": "ZNF521", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q11.2"
+  ], 
+  "gene_id": "ENSG00000198795"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "LSM14A, SCD6 homolog A (S. cerevisiae)", 
+  "symbol": "LSM14A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.11"
+  ], 
+  "gene_id": "ENSG00000257103"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "multiple endocrine neoplasia I", 
+  "symbol": "MEN1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q13.1"
+  ], 
+  "gene_id": "ENSG00000133895"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "polymerase (DNA directed), epsilon, catalytic subunit", 
+  "symbol": "POLE", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.33"
+  ], 
+  "gene_id": "ENSG00000177084"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fanconi anemia, complementation group G", 
+  "symbol": "FANCG", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p13.3"
+  ], 
+  "gene_id": "ENSG00000221829"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 10", 
+  "symbol": "BCL10", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p22.3"
+  ], 
+  "gene_id": "ENSG00000142867"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ATM serine/threonine kinase", 
+  "symbol": "ATM", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q22.3"
+  ], 
+  "gene_id": "ENSG00000149311"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myosin VA (heavy chain 12, myoxin)", 
+  "symbol": "MYO5A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q21.2"
+  ], 
+  "gene_id": "ENSG00000197535"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mitogen-activated protein kinase kinase 2", 
+  "symbol": "MAP2K2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.3"
+  ], 
+  "gene_id": "ENSG00000126934"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "paired related homeobox 1", 
+  "symbol": "PRRX1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q24.2"
+  ], 
+  "gene_id": "ENSG00000116132"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fanconi anemia, complementation group D2", 
+  "symbol": "FANCD2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p25.3"
+  ], 
+  "gene_id": "ENSG00000144554"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "NK2 homeobox 1", 
+  "symbol": "NKX2-1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q13.3"
+  ], 
+  "gene_id": "ENSG00000136352"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "elongation factor RNA polymerase II", 
+  "symbol": "ELL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.11"
+  ], 
+  "gene_id": "ENSG00000105656"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Bloom syndrome, RecQ helicase-like", 
+  "symbol": "BLM", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q26.1"
+  ], 
+  "gene_id": "ENSG00000197299"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "chromosome 15 open reading frame 65", 
+  "symbol": "C15orf65", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q21.3"
+  ], 
+  "gene_id": "ENSG00000261652"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "core-binding factor, beta subunit", 
+  "symbol": "CBFB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q22.1"
+  ], 
+  "gene_id": "ENSG00000067955"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger and BTB domain containing 16", 
+  "symbol": "ZBTB16", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.2"
+  ], 
+  "gene_id": "ENSG00000109906"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein kinase, cAMP-dependent, catalytic, alpha", 
+  "symbol": "PRKACA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.12"
+  ], 
+  "gene_id": "ENSG00000072062"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1", 
+  "symbol": "HERPUD1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q13"
+  ], 
+  "gene_id": "ENSG00000051108"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "factor interacting with PAPOLA and CPSF1", 
+  "symbol": "FIP1L1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q12"
+  ], 
+  "gene_id": "ENSG00000145216"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ets variant 6", 
+  "symbol": "ETV6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p13.2"
+  ], 
+  "gene_id": "ENSG00000139083"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RecQ mediated genome instability 2", 
+  "symbol": "RMI2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.13"
+  ], 
+  "gene_id": "ENSG00000175643"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin-dependent kinase inhibitor 1B (p27, Kip1)", 
+  "symbol": "CDKN1B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p13.1"
+  ], 
+  "gene_id": "ENSG00000111276"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CCCTC-binding factor (zinc finger protein)", 
+  "symbol": "CTCF", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q22.1"
+  ], 
+  "gene_id": "ENSG00000102974"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "paired-like homeobox 2b", 
+  "symbol": "PHOX2B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4p13"
+  ], 
+  "gene_id": "ENSG00000109132"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PMS2 postmeiotic segregation increased 2 (S. cerevisiae)", 
+  "symbol": "PMS2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p22.1"
+  ], 
+  "gene_id": "ENSG00000122512"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B", 
+  "symbol": "MAFB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q12"
+  ], 
+  "gene_id": "ENSG00000204103"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)", 
+  "symbol": "RAC1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p22.1"
+  ], 
+  "gene_id": "ENSG00000136238"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "HNF1 homeobox A", 
+  "symbol": "HNF1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.31"
+  ], 
+  "gene_id": "ENSG00000135100"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "high mobility group nucleosomal binding domain 2 pseudogene 46", 
+  "symbol": "HMGN2P46", 
+  "biotype": "transcribed_processed_pseudogene", 
+  "cytoband": [
+    "15q21.1"
+  ], 
+  "gene_id": "ENSG00000179362"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SCL/TAL1 interrupting locus", 
+  "symbol": "STIL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p33"
+  ], 
+  "gene_id": "ENSG00000123473"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "MALT1 paracaspase", 
+  "symbol": "MALT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q21.32"
+  ], 
+  "gene_id": "ENSG00000172175"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger protein 331", 
+  "symbol": "ZNF331", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.42"
+  ], 
+  "gene_id": "ENSG00000130844"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "serine/arginine-rich splicing factor 3", 
+  "symbol": "SRSF3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.31", 
+    "6p21.2"
+  ], 
+  "gene_id": "ENSG00000112081"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein phosphatase 6, catalytic subunit", 
+  "symbol": "PPP6C", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q33.3"
+  ], 
+  "gene_id": "ENSG00000119414"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "forkhead box O3", 
+  "symbol": "FOXO3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q21"
+  ], 
+  "gene_id": "ENSG00000118689"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "GATA binding protein 3", 
+  "symbol": "GATA3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10p14"
+  ], 
+  "gene_id": "ENSG00000107485"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CD274 molecule", 
+  "symbol": "CD274", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p24.1"
+  ], 
+  "gene_id": "ENSG00000120217"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "EWS RNA-binding protein 1", 
+  "symbol": "EWSR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q12.2"
+  ], 
+  "gene_id": "ENSG00000182944"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ezrin", 
+  "symbol": "EZR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q25.3"
+  ], 
+  "gene_id": "ENSG00000092820"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "stromal antigen 2", 
+  "symbol": "STAG2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq25"
+  ], 
+  "gene_id": "ENSG00000101972"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "paired box 8", 
+  "symbol": "PAX8", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q14.1"
+  ], 
+  "gene_id": "ENSG00000125618"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SMAD family member 3", 
+  "symbol": "SMAD3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q22.33"
+  ], 
+  "gene_id": "ENSG00000166949"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transformation/transcription domain-associated protein", 
+  "symbol": "TRRAP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q22.1"
+  ], 
+  "gene_id": "ENSG00000196367"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "dicer 1, ribonuclease type III", 
+  "symbol": "DICER1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q32.13"
+  ], 
+  "gene_id": "ENSG00000100697"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cAMP responsive element binding protein 3-like 1", 
+  "symbol": "CREB3L1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p11.2"
+  ], 
+  "gene_id": "ENSG00000157613"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "retinoblastoma 1", 
+  "symbol": "RB1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q14.2"
+  ], 
+  "gene_id": "ENSG00000139687"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "JAZF zinc finger 1", 
+  "symbol": "JAZF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p15.2", 
+    "7p15.1"
+  ], 
+  "gene_id": "ENSG00000153814"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "phospholipase C, gamma 1", 
+  "symbol": "PLCG1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q12"
+  ], 
+  "gene_id": "ENSG00000124181"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "formin binding protein 1", 
+  "symbol": "FNBP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.11"
+  ], 
+  "gene_id": "ENSG00000187239"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cysteine-rich hydrophobic domain 2", 
+  "symbol": "CHIC2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q12"
+  ], 
+  "gene_id": "ENSG00000109220"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "H3 histone, family 3B (H3.3B)", 
+  "symbol": "H3F3B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q25.1"
+  ], 
+  "gene_id": "ENSG00000132475"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ELKS/RAB6-interacting/CAST family member 1", 
+  "symbol": "ERC1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p13.33"
+  ], 
+  "gene_id": "ENSG00000082805"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cysteinyl-tRNA synthetase", 
+  "symbol": "CARS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p15.4"
+  ], 
+  "gene_id": "ENSG00000110619"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ubiquitin specific peptidase 6", 
+  "symbol": "USP6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p13.2"
+  ], 
+  "gene_id": "ENSG00000129204"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "atypical chemokine receptor 3", 
+  "symbol": "ACKR3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q37.3"
+  ], 
+  "gene_id": "ENSG00000144476"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "T-cell leukemia homeobox 3", 
+  "symbol": "TLX3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q35.1"
+  ], 
+  "gene_id": "ENSG00000164438"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PR domain containing 1, with ZNF domain", 
+  "symbol": "PRDM1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q21"
+  ], 
+  "gene_id": "ENSG00000057657"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger protein 384", 
+  "symbol": "ZNF384", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p13.31"
+  ], 
+  "gene_id": "ENSG00000126746"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Cbl proto-oncogene C, E3 ubiquitin protein ligase", 
+  "symbol": "CBLC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.32"
+  ], 
+  "gene_id": "ENSG00000142273"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "death-domain associated protein", 
+  "symbol": "DAXX", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.32"
+  ], 
+  "gene_id": "ENSG00000204209"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear receptor binding SET domain protein 1", 
+  "symbol": "NSD1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q35.3"
+  ], 
+  "gene_id": "ENSG00000165671"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "DNA (cytosine-5-)-methyltransferase 3 alpha", 
+  "symbol": "DNMT3A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p23.3"
+  ], 
+  "gene_id": "ENSG00000119772"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fibroblast growth factor receptor 2", 
+  "symbol": "FGFR2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q26.13"
+  ], 
+  "gene_id": "ENSG00000066468"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "MYC associated factor X", 
+  "symbol": "MAX", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q23.3"
+  ], 
+  "gene_id": "ENSG00000125952"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "R-spondin 3", 
+  "symbol": "RSPO3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q22.33"
+  ], 
+  "gene_id": "ENSG00000146374"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "DnaJ (Hsp40) homolog, subfamily B, member 1", 
+  "symbol": "DNAJB1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.12"
+  ], 
+  "gene_id": "ENSG00000132002"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "leucine-zipper-like transcription regulator 1", 
+  "symbol": "LZTR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q11.21"
+  ], 
+  "gene_id": "ENSG00000099949"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear factor I/B", 
+  "symbol": "NFIB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p23", 
+    "9p22.3"
+  ], 
+  "gene_id": "ENSG00000147862"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Kruppel-like factor 6", 
+  "symbol": "KLF6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10p15.2"
+  ], 
+  "gene_id": "ENSG00000067082"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fli-1 proto-oncogene, ETS transcription factor", 
+  "symbol": "FLI1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q24.3"
+  ], 
+  "gene_id": "ENSG00000151702"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CAP-GLY domain containing linker protein 1", 
+  "symbol": "CLIP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.31"
+  ], 
+  "gene_id": "ENSG00000130779"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog", 
+  "symbol": "MAF", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q23.2"
+  ], 
+  "gene_id": "ENSG00000178573"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "erb-b2 receptor tyrosine kinase 2", 
+  "symbol": "ERBB2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q12"
+  ], 
+  "gene_id": "ENSG00000141736"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lysine (K)-specific methyltransferase 2A", 
+  "symbol": "KMT2A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.3"
+  ], 
+  "gene_id": "ENSG00000118058"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "telomerase reverse transcriptase", 
+  "symbol": "TERT", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5p15.33"
+  ], 
+  "gene_id": "ENSG00000164362"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "A kinase (PRKA) anchor protein 9", 
+  "symbol": "AKAP9", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q21.2"
+  ], 
+  "gene_id": "ENSG00000127914"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "TCF3 (E2A) fusion partner (in childhood Leukemia)", 
+  "symbol": "TFPT", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.42"
+  ], 
+  "gene_id": "ENSG00000105619"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin D3", 
+  "symbol": "CCND3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.1"
+  ], 
+  "gene_id": "ENSG00000112576"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transcription factor 7-like 2 (T-cell specific, HMG-box)", 
+  "symbol": "TCF7L2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q25.2", 
+    "10q25.3"
+  ], 
+  "gene_id": "ENSG00000148737"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ribosomal protein L5", 
+  "symbol": "RPL5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p22.1"
+  ], 
+  "gene_id": "ENSG00000122406"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transferrin receptor", 
+  "symbol": "TFRC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q29"
+  ], 
+  "gene_id": "ENSG00000072274"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CREB binding protein", 
+  "symbol": "CREBBP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.3"
+  ], 
+  "gene_id": "ENSG00000005339"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RAN binding protein 2", 
+  "symbol": "RANBP2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q13"
+  ], 
+  "gene_id": "ENSG00000153201"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "neuregulin 1", 
+  "symbol": "NRG1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p12"
+  ], 
+  "gene_id": "ENSG00000157168"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Kirsten rat sarcoma viral oncogene homolog", 
+  "symbol": "KRAS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p12.1"
+  ], 
+  "gene_id": "ENSG00000133703"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "serine/threonine kinase 11", 
+  "symbol": "STK11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.3"
+  ], 
+  "gene_id": "ENSG00000118046"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CCAAT/enhancer binding protein (C/EBP), alpha", 
+  "symbol": "CEBPA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.11"
+  ], 
+  "gene_id": "ENSG00000245848"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "E74-like factor 4 (ets domain transcription factor)", 
+  "symbol": "ELF4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq26.1"
+  ], 
+  "gene_id": "ENSG00000102034"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mutS homolog 2", 
+  "symbol": "MSH2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p21", 
+    "2p16.3"
+  ], 
+  "gene_id": "ENSG00000095002"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear receptor subfamily 4, group A, member 3", 
+  "symbol": "NR4A3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q31.1"
+  ], 
+  "gene_id": "ENSG00000119508"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "calcium activated nucleotidase 1", 
+  "symbol": "CANT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q25.3"
+  ], 
+  "gene_id": "ENSG00000171302"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tumor necrosis factor, alpha-induced protein 3", 
+  "symbol": "TNFAIP3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q23.3"
+  ], 
+  "gene_id": "ENSG00000118503"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "high mobility group AT-hook 1", 
+  "symbol": "HMGA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.31"
+  ], 
+  "gene_id": "ENSG00000137309"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "signal transducer and activator of transcription 3 (acute-phase response factor)", 
+  "symbol": "STAT3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.2"
+  ], 
+  "gene_id": "ENSG00000168610"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nucleoporin 98kDa", 
+  "symbol": "NUP98", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p15.4"
+  ], 
+  "gene_id": "ENSG00000110713"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "acyl-CoA synthetase long-chain family member 6", 
+  "symbol": "ACSL6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q31.1"
+  ], 
+  "gene_id": "ENSG00000164398"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fas cell surface death receptor", 
+  "symbol": "FAS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q23.31"
+  ], 
+  "gene_id": "ENSG00000026103"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "kinectin 1 (kinesin receptor)", 
+  "symbol": "KTN1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q22.3"
+  ], 
+  "gene_id": "ENSG00000126777"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ninein (GSK3B interacting protein)", 
+  "symbol": "NIN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q22.1"
+  ], 
+  "gene_id": "ENSG00000100503"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin B1 interacting protein 1, E3 ubiquitin protein ligase", 
+  "symbol": "CCNB1IP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q11.2"
+  ], 
+  "gene_id": "ENSG00000100814"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "MDM4, p53 regulator", 
+  "symbol": "MDM4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q32.1"
+  ], 
+  "gene_id": "ENSG00000198625"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PC4 and SFRS1 interacting protein 1", 
+  "symbol": "PSIP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p22.3"
+  ], 
+  "gene_id": "ENSG00000164985"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "pleiomorphic adenoma gene 1", 
+  "symbol": "PLAG1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q12.1"
+  ], 
+  "gene_id": "ENSG00000181690"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "dynamin 2", 
+  "symbol": "DNM2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.2"
+  ], 
+  "gene_id": "ENSG00000079805"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lysine (K)-specific methyltransferase 2D", 
+  "symbol": "KMT2D", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.12"
+  ], 
+  "gene_id": "ENSG00000167548"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myosin, heavy chain 11, smooth muscle", 
+  "symbol": "MYH11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.11"
+  ], 
+  "gene_id": "ENSG00000133392"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SMAD family member 2", 
+  "symbol": "SMAD2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q21.1"
+  ], 
+  "gene_id": "ENSG00000175387"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "exostosin glycosyltransferase 1", 
+  "symbol": "EXT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q24.11"
+  ], 
+  "gene_id": "ENSG00000182197"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myosin, heavy chain 9, non-muscle", 
+  "symbol": "MYH9", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q12.3"
+  ], 
+  "gene_id": "ENSG00000100345"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mature T-cell proliferation 1", 
+  "symbol": "MTCP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq28"
+  ], 
+  "gene_id": "ENSG00000214827"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin-dependent kinase inhibitor 2A", 
+  "symbol": "CDKN2A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p21.3"
+  ], 
+  "gene_id": "ENSG00000147889"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tripartite motif containing 24", 
+  "symbol": "TRIM24", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q33", 
+    "7q34"
+  ], 
+  "gene_id": "ENSG00000122779"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "signal transducer and activator of transcription 6, interleukin-4 induced", 
+  "symbol": "STAT6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.3"
+  ], 
+  "gene_id": "ENSG00000166888"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "DEAD (Asp-Glu-Ala-Asp) box helicase 5", 
+  "symbol": "DDX5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q23.3"
+  ], 
+  "gene_id": "ENSG00000108654"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ABL proto-oncogene 1, non-receptor tyrosine kinase", 
+  "symbol": "ABL1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.12"
+  ], 
+  "gene_id": "ENSG00000097007"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ribosomal protein L22", 
+  "symbol": "RPL22", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.31"
+  ], 
+  "gene_id": "ENSG00000116251"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RAN binding protein 17", 
+  "symbol": "RANBP17", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q35.1"
+  ], 
+  "gene_id": "ENSG00000204764"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "AP002884.2", 
+  "symbol": "AP002884.2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.1"
+  ], 
+  "gene_id": "ENSG00000255292"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "caspase 8, apoptosis-related cysteine peptidase", 
+  "symbol": "CASP8", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q33.1"
+  ], 
+  "gene_id": "ENSG00000064012"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-myc avian myelocytomatosis viral oncogene lung carcinoma derived homolog", 
+  "symbol": "MYCL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p34.2"
+  ], 
+  "gene_id": "ENSG00000116990"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "FAT atypical cadherin 4", 
+  "symbol": "FAT4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q28.1"
+  ], 
+  "gene_id": "ENSG00000196159"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "AT rich interactive domain 1A (SWI-like)", 
+  "symbol": "ARID1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.11"
+  ], 
+  "gene_id": "ENSG00000117713"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ATPase, Na+/K+ transporting, alpha 1 polypeptide", 
+  "symbol": "ATP1A1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p13.1"
+  ], 
+  "gene_id": "ENSG00000163399"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "GNAS complex locus", 
+  "symbol": "GNAS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q13.32"
+  ], 
+  "gene_id": "ENSG00000087460"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-myc avian myelocytomatosis viral oncogene homolog", 
+  "symbol": "MYC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q24.21"
+  ], 
+  "gene_id": "ENSG00000136997"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fanconi anemia, complementation group E", 
+  "symbol": "FANCE", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.31"
+  ], 
+  "gene_id": "ENSG00000112039"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ret proto-oncogene", 
+  "symbol": "RET", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q11.21"
+  ], 
+  "gene_id": "ENSG00000165731"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cancer susceptibility candidate 5", 
+  "symbol": "CASC5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q15.1"
+  ], 
+  "gene_id": "ENSG00000137812"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "forkhead box O1", 
+  "symbol": "FOXO1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q14.11"
+  ], 
+  "gene_id": "ENSG00000150907"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "LIM domain only 2 (rhombotin-like 1)", 
+  "symbol": "LMO2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p13"
+  ], 
+  "gene_id": "ENSG00000135363"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-rel avian reticuloendotheliosis viral oncogene homolog", 
+  "symbol": "REL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p16.1"
+  ], 
+  "gene_id": "ENSG00000162924"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein tyrosine phosphatase, receptor type, C", 
+  "symbol": "PTPRC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q31.3", 
+    "1q32.1"
+  ], 
+  "gene_id": "ENSG00000081237"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "WW domain containing transcription regulator 1", 
+  "symbol": "WWTR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q25.1"
+  ], 
+  "gene_id": "ENSG00000018408"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "breakpoint cluster region", 
+  "symbol": "BCR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q11.23"
+  ], 
+  "gene_id": "ENSG00000186716"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "coiled-coil domain containing 6", 
+  "symbol": "CCDC6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q21.2"
+  ], 
+  "gene_id": "ENSG00000108091"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "platelet-derived growth factor beta polypeptide", 
+  "symbol": "PDGFB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q13.1"
+  ], 
+  "gene_id": "ENSG00000100311"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "forkhead box L2", 
+  "symbol": "FOXL2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q22.3"
+  ], 
+  "gene_id": "ENSG00000183770"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear mitotic apparatus protein 1", 
+  "symbol": "NUMA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q13.4"
+  ], 
+  "gene_id": "ENSG00000137497"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protection of telomeres 1", 
+  "symbol": "POT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q31.33"
+  ], 
+  "gene_id": "ENSG00000128513"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "notch 1", 
+  "symbol": "NOTCH1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.3"
+  ], 
+  "gene_id": "ENSG00000148400"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mediator complex subunit 12", 
+  "symbol": "MED12", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq13.1"
+  ], 
+  "gene_id": "ENSG00000184634"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 2", 
+  "symbol": "ZRSR2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp22.2"
+  ], 
+  "gene_id": "ENSG00000169249"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin E1", 
+  "symbol": "CCNE1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q12"
+  ], 
+  "gene_id": "ENSG00000105173"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "IL2-inducible T-cell kinase", 
+  "symbol": "ITK", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q33.3"
+  ], 
+  "gene_id": "ENSG00000113263"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "T-cell leukemia/lymphoma 1A", 
+  "symbol": "TCL1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q32.13"
+  ], 
+  "gene_id": "ENSG00000100721"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "FAT atypical cadherin 1", 
+  "symbol": "FAT1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q35.2"
+  ], 
+  "gene_id": "ENSG00000083857"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "notch 2", 
+  "symbol": "NOTCH2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p12"
+  ], 
+  "gene_id": "ENSG00000134250"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lymphoblastic leukemia associated hematopoiesis regulator 1", 
+  "symbol": "LYL1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.13"
+  ], 
+  "gene_id": "ENSG00000104903"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin-dependent kinase 6", 
+  "symbol": "CDK6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q21.2"
+  ], 
+  "gene_id": "ENSG00000105810"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CD79a molecule, immunoglobulin-associated alpha", 
+  "symbol": "CD79A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.2"
+  ], 
+  "gene_id": "ENSG00000105369"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "musashi RNA-binding protein 2", 
+  "symbol": "MSI2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q22"
+  ], 
+  "gene_id": "ENSG00000153944"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "DEK proto-oncogene", 
+  "symbol": "DEK", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p22.3"
+  ], 
+  "gene_id": "ENSG00000124795"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nibrin", 
+  "symbol": "NBN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q21.3"
+  ], 
+  "gene_id": "ENSG00000104320"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Harvey rat sarcoma viral oncogene homolog", 
+  "symbol": "HRAS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p15.5"
+  ], 
+  "gene_id": "ENSG00000174775"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CREB regulated transcription coactivator 1", 
+  "symbol": "CRTC1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.11"
+  ], 
+  "gene_id": "ENSG00000105662"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myeloid leukemia factor 1", 
+  "symbol": "MLF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q25.32"
+  ], 
+  "gene_id": "ENSG00000178053"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "KIAA1549", 
+  "symbol": "KIAA1549", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q34"
+  ], 
+  "gene_id": "ENSG00000122778"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11", 
+  "symbol": "MLLT11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q21.3"
+  ], 
+  "gene_id": "ENSG00000213190"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)", 
+  "symbol": "HIF1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q23.2"
+  ], 
+  "gene_id": "ENSG00000100644"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RAP1, GTP-GDP dissociation stimulator 1", 
+  "symbol": "RAP1GDS1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q23"
+  ], 
+  "gene_id": "ENSG00000138698"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SRY (sex determining region Y)-box 2", 
+  "symbol": "SOX2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q26.33"
+  ], 
+  "gene_id": "ENSG00000181449"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "forkhead box A1", 
+  "symbol": "FOXA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q21.1"
+  ], 
+  "gene_id": "ENSG00000129514"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "FGFR1 oncogene partner", 
+  "symbol": "FGFR1OP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q27"
+  ], 
+  "gene_id": "ENSG00000213066"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "polybromo 1", 
+  "symbol": "PBRM1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p21.1"
+  ], 
+  "gene_id": "ENSG00000163939"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cAMP responsive element binding protein 3-like 2", 
+  "symbol": "CREB3L2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q33"
+  ], 
+  "gene_id": "ENSG00000182158"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "breast cancer 2, early onset", 
+  "symbol": "BRCA2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q13.1"
+  ], 
+  "gene_id": "ENSG00000139618"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myelodysplastic syndrome 2 translocation associated", 
+  "symbol": "MDS2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.12", 
+    "1p36.11"
+  ], 
+  "gene_id": "ENSG00000197880"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "LIM and SH3 protein 1", 
+  "symbol": "LASP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q12"
+  ], 
+  "gene_id": "ENSG00000002834"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "IKAROS family zinc finger 1 (Ikaros)", 
+  "symbol": "IKZF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p12.2"
+  ], 
+  "gene_id": "ENSG00000185811"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tropomyosin 4", 
+  "symbol": "TPM4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.12", 
+    "19p13.11"
+  ], 
+  "gene_id": "ENSG00000167460"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "smoothened, frizzled class receptor", 
+  "symbol": "SMO", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q32.1"
+  ], 
+  "gene_id": "ENSG00000128602"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "golgi-associated PDZ and coiled-coil motif containing", 
+  "symbol": "GOPC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q22.1"
+  ], 
+  "gene_id": "ENSG00000047932"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transmembrane protease, serine 2", 
+  "symbol": "TMPRSS2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "21q22.3"
+  ], 
+  "gene_id": "ENSG00000184012"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "E1A binding protein p300", 
+  "symbol": "EP300", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q13.2"
+  ], 
+  "gene_id": "ENSG00000100393"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein tyrosine phosphatase, receptor type, K", 
+  "symbol": "PTPRK", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q22.33"
+  ], 
+  "gene_id": "ENSG00000152894"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homeobox C11", 
+  "symbol": "HOXC11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.13"
+  ], 
+  "gene_id": "ENSG00000123388"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "huntingtin interacting protein 1", 
+  "symbol": "HIP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q11.23"
+  ], 
+  "gene_id": "ENSG00000127946"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "alveolar soft part sarcoma chromosome region, candidate 1", 
+  "symbol": "ASPSCR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q25.3"
+  ], 
+  "gene_id": "ENSG00000169696"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein tyrosine phosphatase, non-receptor type 13 (APO-1/CD95 (Fas)-associated phosphatase)", 
+  "symbol": "PTPN13", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q21.3"
+  ], 
+  "gene_id": "ENSG00000163629"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-ets avian erythroblastosis virus E26 oncogene homolog", 
+  "symbol": "ERG", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "21q22.2"
+  ], 
+  "gene_id": "ENSG00000157554"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "TRK-fused gene", 
+  "symbol": "TFG", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q12.2"
+  ], 
+  "gene_id": "ENSG00000114354"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "peroxisome proliferator-activated receptor gamma", 
+  "symbol": "PPARG", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p25.2"
+  ], 
+  "gene_id": "ENSG00000132170"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin D1", 
+  "symbol": "CCND1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q13.3"
+  ], 
+  "gene_id": "ENSG00000110092"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fibroblast growth factor receptor 1", 
+  "symbol": "FGFR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8p11.23"
+  ], 
+  "gene_id": "ENSG00000077782"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SUZ12 polycomb repressive complex 2 subunit", 
+  "symbol": "SUZ12", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q11.2"
+  ], 
+  "gene_id": "ENSG00000178691"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "zinc finger homeobox 3", 
+  "symbol": "ZFHX3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q22.2", 
+    "16q22.3"
+  ], 
+  "gene_id": "ENSG00000140836"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "T-box 3", 
+  "symbol": "TBX3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.21"
+  ], 
+  "gene_id": "ENSG00000135111"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transcription factor binding to IGHM enhancer 3", 
+  "symbol": "TFE3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.23"
+  ], 
+  "gene_id": "ENSG00000068323"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "F-box protein 11", 
+  "symbol": "FBXO11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p16.3"
+  ], 
+  "gene_id": "ENSG00000138081"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "thyroid hormone receptor interactor 11", 
+  "symbol": "TRIP11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q32.12"
+  ], 
+  "gene_id": "ENSG00000100815"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "POZ (BTB) and AT hook containing zinc finger 1", 
+  "symbol": "PATZ1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q12.2"
+  ], 
+  "gene_id": "ENSG00000100105"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "platelet-activating factor acetylhydrolase 1b, catalytic subunit 2 (30kDa)", 
+  "symbol": "PAFAH1B2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.3"
+  ], 
+  "gene_id": "ENSG00000168092"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "heat shock protein 90kDa alpha (cytosolic), class A member 1", 
+  "symbol": "HSP90AA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q32.31"
+  ], 
+  "gene_id": "ENSG00000080824"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mutS homolog 6", 
+  "symbol": "MSH6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p16.3"
+  ], 
+  "gene_id": "ENSG00000116062"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "follistatin-like 3 (secreted glycoprotein)", 
+  "symbol": "FSTL3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.3"
+  ], 
+  "gene_id": "ENSG00000070404"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "breast cancer 1, early onset", 
+  "symbol": "BRCA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.31"
+  ], 
+  "gene_id": "ENSG00000012048"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "estrogen receptor 1", 
+  "symbol": "ESR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q25.1", 
+    "6q25.2"
+  ], 
+  "gene_id": "ENSG00000091831"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ring finger protein 43", 
+  "symbol": "RNF43", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q22"
+  ], 
+  "gene_id": "ENSG00000108375"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 3", 
+  "symbol": "MLLT3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p21.3"
+  ], 
+  "gene_id": "ENSG00000171843"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2", 
+  "symbol": "NFATC2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q13.2"
+  ], 
+  "gene_id": "ENSG00000101096"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "NCK interacting protein with SH3 domain", 
+  "symbol": "NCKIPSD", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p21.31"
+  ], 
+  "gene_id": "ENSG00000213672"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "guanine monphosphate synthase", 
+  "symbol": "GMPS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q25.31"
+  ], 
+  "gene_id": "ENSG00000163655"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "phosphodiesterase 4D interacting protein", 
+  "symbol": "PDE4DIP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q21.2"
+  ], 
+  "gene_id": "ENSG00000178104"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "growth arrest-specific 7", 
+  "symbol": "GAS7", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p13.1"
+  ], 
+  "gene_id": "ENSG00000007237"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "serine/arginine-rich splicing factor 2", 
+  "symbol": "SRSF2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q25.1"
+  ], 
+  "gene_id": "ENSG00000161547"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "early B-cell factor 1", 
+  "symbol": "EBF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q33.3"
+  ], 
+  "gene_id": "ENSG00000164330"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homeobox A13", 
+  "symbol": "HOXA13", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7p15.2"
+  ], 
+  "gene_id": "ENSG00000106031"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "guanine nucleotide binding protein (G protein), q polypeptide", 
+  "symbol": "GNAQ", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q21.2"
+  ], 
+  "gene_id": "ENSG00000156052"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "speckle-type POZ protein", 
+  "symbol": "SPOP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.33"
+  ], 
+  "gene_id": "ENSG00000121067"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "guanine nucleotide binding protein (G protein), alpha 11 (Gq class)", 
+  "symbol": "GNA11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.3"
+  ], 
+  "gene_id": "ENSG00000088256"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "thyroid hormone receptor associated protein 3", 
+  "symbol": "THRAP3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p34.3"
+  ], 
+  "gene_id": "ENSG00000054118"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "AF4/FMR2 family, member 1", 
+  "symbol": "AFF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q21.3", 
+    "4q22.1"
+  ], 
+  "gene_id": "ENSG00000172493"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "sperm antigen with calponin homology and coiled-coil domains 1", 
+  "symbol": "SPECC1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p11.2"
+  ], 
+  "gene_id": "ENSG00000128487"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mutY homolog", 
+  "symbol": "MUTYH", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p34.1"
+  ], 
+  "gene_id": "ENSG00000132781"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "acyl-CoA synthetase long-chain family member 3", 
+  "symbol": "ACSL3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q36.1"
+  ], 
+  "gene_id": "ENSG00000123983"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fumarate hydratase", 
+  "symbol": "FH", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q43"
+  ], 
+  "gene_id": "ENSG00000091483"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tumor necrosis factor receptor superfamily, member 17", 
+  "symbol": "TNFRSF17", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.13"
+  ], 
+  "gene_id": "ENSG00000048462"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cylindromatosis (turban tumor syndrome)", 
+  "symbol": "CYLD", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16q12.1"
+  ], 
+  "gene_id": "ENSG00000083799"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "paired box 3", 
+  "symbol": "PAX3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q36.1"
+  ], 
+  "gene_id": "ENSG00000135903"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "platelet-derived growth factor receptor, beta polypeptide", 
+  "symbol": "PDGFRB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q32"
+  ], 
+  "gene_id": "ENSG00000113721"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "solute carrier family 45, member 3", 
+  "symbol": "SLC45A3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q32.1"
+  ], 
+  "gene_id": "ENSG00000158715"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Wolf-Hirschhorn syndrome candidate 1", 
+  "symbol": "WHSC1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4p16.3"
+  ], 
+  "gene_id": "ENSG00000109685"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Janus kinase 1", 
+  "symbol": "JAK1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p31.3"
+  ], 
+  "gene_id": "ENSG00000162434"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tubulin tyrosine ligase", 
+  "symbol": "TTL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q14.1"
+  ], 
+  "gene_id": "ENSG00000114999"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "spleen tyrosine kinase", 
+  "symbol": "SYK", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q22.2"
+  ], 
+  "gene_id": "ENSG00000165025"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fragile histidine triad", 
+  "symbol": "FHIT", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p14.2"
+  ], 
+  "gene_id": "ENSG00000189283"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein phosphatase 2, regulatory subunit A, alpha", 
+  "symbol": "PPP2R1A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.41"
+  ], 
+  "gene_id": "ENSG00000105568"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lysine (K)-specific demethylase 5A", 
+  "symbol": "KDM5A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p13.33"
+  ], 
+  "gene_id": "ENSG00000073614"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Pim-1 proto-oncogene, serine/threonine kinase", 
+  "symbol": "PIM1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.2"
+  ], 
+  "gene_id": "ENSG00000137193"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "baculoviral IAP repeat containing 3", 
+  "symbol": "BIRC3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q22.2"
+  ], 
+  "gene_id": "ENSG00000023445"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cut-like homeobox 1", 
+  "symbol": "CUX1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q22.1"
+  ], 
+  "gene_id": "ENSG00000257923"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ral guanine nucleotide dissociation stimulator", 
+  "symbol": "RALGDS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.13", 
+    "9q34.2"
+  ], 
+  "gene_id": "ENSG00000160271"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin-dependent kinase 12", 
+  "symbol": "CDK12", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q12"
+  ], 
+  "gene_id": "ENSG00000167258"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "interleukin 7 receptor", 
+  "symbol": "IL7R", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5p13.2"
+  ], 
+  "gene_id": "ENSG00000168685"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "gephyrin", 
+  "symbol": "GPHN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q23.3"
+  ], 
+  "gene_id": "ENSG00000171723"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Kruppel-like factor 4 (gut)", 
+  "symbol": "KLF4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q31.2"
+  ], 
+  "gene_id": "ENSG00000136826"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "succinate dehydrogenase complex, subunit A, flavoprotein (Fp)", 
+  "symbol": "SDHA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5p15.33"
+  ], 
+  "gene_id": "ENSG00000073578"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "AF4/FMR2 family, member 4", 
+  "symbol": "AFF4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q31.1"
+  ], 
+  "gene_id": "ENSG00000072364"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nucleoporin 214kDa", 
+  "symbol": "NUP214", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.13"
+  ], 
+  "gene_id": "ENSG00000126883"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fanconi anemia, complementation group C", 
+  "symbol": "FANCC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q22.32"
+  ], 
+  "gene_id": "ENSG00000158169"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "damage-specific DNA binding protein 2, 48kDa", 
+  "symbol": "DDB2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p11.2"
+  ], 
+  "gene_id": "ENSG00000134574"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tumor necrosis factor receptor superfamily, member 14", 
+  "symbol": "TNFRSF14", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.32"
+  ], 
+  "gene_id": "ENSG00000157873"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Janus kinase 3", 
+  "symbol": "JAK3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.11"
+  ], 
+  "gene_id": "ENSG00000105639"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "BUB1 mitotic checkpoint serine/threonine kinase B", 
+  "symbol": "BUB1B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q15.1"
+  ], 
+  "gene_id": "ENSG00000156970"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "kinase insert domain receptor", 
+  "symbol": "KDR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q12"
+  ], 
+  "gene_id": "ENSG00000128052"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "caudal type homeobox 2", 
+  "symbol": "CDX2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q12.2"
+  ], 
+  "gene_id": "ENSG00000165556"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "neurotrophic tyrosine kinase, receptor, type 3", 
+  "symbol": "NTRK3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q25.3"
+  ], 
+  "gene_id": "ENSG00000140538"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "rabaptin, RAB GTPase binding effector protein 1", 
+  "symbol": "RABEP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p13.2"
+  ], 
+  "gene_id": "ENSG00000029725"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "WNT inhibitory factor 1", 
+  "symbol": "WIF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q14.3"
+  ], 
+  "gene_id": "ENSG00000156076"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transducin (beta)-like 1 X-linked receptor 1", 
+  "symbol": "TBL1XR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q26.32"
+  ], 
+  "gene_id": "ENSG00000177565"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Rho guanine nucleotide exchange factor (GEF) 12", 
+  "symbol": "ARHGEF12", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.3"
+  ], 
+  "gene_id": "ENSG00000196914"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "homeobox C13", 
+  "symbol": "HOXC13", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.13"
+  ], 
+  "gene_id": "ENSG00000123364"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "forkhead box O4", 
+  "symbol": "FOXO4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq13.1"
+  ], 
+  "gene_id": "ENSG00000184481"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "axin 2", 
+  "symbol": "AXIN2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q24.1"
+  ], 
+  "gene_id": "ENSG00000168646"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "catenin (cadherin-associated protein), beta 1, 88kDa", 
+  "symbol": "CTNNB1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p22.1"
+  ], 
+  "gene_id": "ENSG00000168036"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "glypican 3", 
+  "symbol": "GPC3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq26.2"
+  ], 
+  "gene_id": "ENSG00000147257"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SMAD family member 4", 
+  "symbol": "SMAD4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q21.2"
+  ], 
+  "gene_id": "ENSG00000141646"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "axin 1", 
+  "symbol": "AXIN1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.3"
+  ], 
+  "gene_id": "ENSG00000103126"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lamin A/C", 
+  "symbol": "LMNA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q22"
+  ], 
+  "gene_id": "ENSG00000160789"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "runt-related transcription factor 1", 
+  "symbol": "RUNX1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "21q22.12"
+  ], 
+  "gene_id": "ENSG00000159216"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "fms-related tyrosine kinase 4", 
+  "symbol": "FLT4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q35.3"
+  ], 
+  "gene_id": "ENSG00000037280"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "folliculin", 
+  "symbol": "FLCN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p11.2"
+  ], 
+  "gene_id": "ENSG00000154803"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RAD21 homolog (S. pombe)", 
+  "symbol": "RAD21", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q24.11"
+  ], 
+  "gene_id": "ENSG00000164754"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1", 
+  "symbol": "SMARCE1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.2"
+  ], 
+  "gene_id": "ENSG00000073584"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mechanistic target of rapamycin (serine/threonine kinase)", 
+  "symbol": "MTOR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.22"
+  ], 
+  "gene_id": "ENSG00000198793"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 6", 
+  "symbol": "BCL6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q27.3"
+  ], 
+  "gene_id": "ENSG00000113916"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "CCHC-type zinc finger, nucleic acid binding protein", 
+  "symbol": "CNBP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q21.3"
+  ], 
+  "gene_id": "ENSG00000169714"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "jun proto-oncogene", 
+  "symbol": "JUN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p32.1"
+  ], 
+  "gene_id": "ENSG00000177606"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "purinergic receptor P2Y, G-protein coupled, 8", 
+  "symbol": "P2RY8", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp22.33"
+  ], 
+  "gene_id": "ENSG00000182162"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lymphocyte cytosolic protein 1 (L-plastin)", 
+  "symbol": "LCP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "13q14.13"
+  ], 
+  "gene_id": "ENSG00000136167"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "LIM domain containing preferred translocation partner in lipoma", 
+  "symbol": "LPP", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q27.3", 
+    "3q28"
+  ], 
+  "gene_id": "ENSG00000145012"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "T-cell leukemia homeobox 1", 
+  "symbol": "TLX1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q24.31"
+  ], 
+  "gene_id": "ENSG00000107807"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "septin 9", 
+  "symbol": "SEPT9", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q25.3"
+  ], 
+  "gene_id": "ENSG00000184640"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha", 
+  "symbol": "PIK3CA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q26.32"
+  ], 
+  "gene_id": "ENSG00000121879"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "centrosomal protein 89kDa", 
+  "symbol": "CEP89", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.11"
+  ], 
+  "gene_id": "ENSG00000121289"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transcription elongation factor A (SII), 1", 
+  "symbol": "TCEA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q11.23"
+  ], 
+  "gene_id": "ENSG00000187735"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "MET proto-oncogene, receptor tyrosine kinase", 
+  "symbol": "MET", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q31.2"
+  ], 
+  "gene_id": "ENSG00000105976"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "major histocompatibility complex, class I, A", 
+  "symbol": "HLA-A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p22.1"
+  ], 
+  "gene_id": "ENSG00000206503"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "LCK proto-oncogene, Src family tyrosine kinase", 
+  "symbol": "LCK", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p35.2"
+  ], 
+  "gene_id": "ENSG00000182866"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ubiquitin specific peptidase 8", 
+  "symbol": "USP8", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q21.2"
+  ], 
+  "gene_id": "ENSG00000138592"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "splicing factor proline/glutamine-rich", 
+  "symbol": "SFPQ", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p34.3"
+  ], 
+  "gene_id": "ENSG00000116560"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "T-cell acute lymphocytic leukemia 1", 
+  "symbol": "TAL1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p33"
+  ], 
+  "gene_id": "ENSG00000162367"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "excision repair cross-complementation group 4", 
+  "symbol": "ERCC4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.12"
+  ], 
+  "gene_id": "ENSG00000175595"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RecQ protein-like 4", 
+  "symbol": "RECQL4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q24.3"
+  ], 
+  "gene_id": "ENSG00000160957"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SET nuclear proto-oncogene", 
+  "symbol": "SET", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q34.11"
+  ], 
+  "gene_id": "ENSG00000119335"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "neurotrophic tyrosine kinase, receptor, type 1", 
+  "symbol": "NTRK1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q23.1"
+  ], 
+  "gene_id": "ENSG00000198400"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon", 
+  "symbol": "YWHAE", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p13.3"
+  ], 
+  "gene_id": "ENSG00000108953"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase", 
+  "symbol": "ATIC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q35"
+  ], 
+  "gene_id": "ENSG00000138363"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "collagen, type II, alpha 1", 
+  "symbol": "COL2A1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.11"
+  ], 
+  "gene_id": "ENSG00000139219"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "T-cell leukemia/lymphoma 6 (non-protein coding)", 
+  "symbol": "TCL6", 
+  "biotype": "processed_transcript", 
+  "cytoband": [
+    "14q32.13"
+  ], 
+  "gene_id": "ENSG00000187621"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tet methylcytosine dioxygenase 2", 
+  "symbol": "TET2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "4q24"
+  ], 
+  "gene_id": "ENSG00000168769"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "calmodulin binding transcription activator 1", 
+  "symbol": "CAMTA1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p36.31", 
+    "1p36.23"
+  ], 
+  "gene_id": "ENSG00000171735"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "excision repair cross-complementation group 3", 
+  "symbol": "ERCC3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q14.3"
+  ], 
+  "gene_id": "ENSG00000163161"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tropomyosin 3", 
+  "symbol": "TPM3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q21.3"
+  ], 
+  "gene_id": "ENSG00000143549"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Raf-1 proto-oncogene, serine/threonine kinase", 
+  "symbol": "RAF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p25.2"
+  ], 
+  "gene_id": "ENSG00000132155"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "FUS RNA binding protein", 
+  "symbol": "FUS", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p11.2"
+  ], 
+  "gene_id": "ENSG00000089280"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "LIM domain only 1 (rhombotin 1)", 
+  "symbol": "LMO1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p15.4"
+  ], 
+  "gene_id": "ENSG00000166407"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PWWP domain containing 2A", 
+  "symbol": "PWWP2A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q33.3"
+  ], 
+  "gene_id": "ENSG00000170234"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "promyelocytic leukemia", 
+  "symbol": "PML", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "15q24.1"
+  ], 
+  "gene_id": "ENSG00000140464"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "forkhead box P1", 
+  "symbol": "FOXP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p13"
+  ], 
+  "gene_id": "ENSG00000114861"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "RAD51 paralog B", 
+  "symbol": "RAD51B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "14q24.1"
+  ], 
+  "gene_id": "ENSG00000182185"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "syndecan 4", 
+  "symbol": "SDC4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q13.12"
+  ], 
+  "gene_id": "ENSG00000124145"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "AT rich interactive domain 2 (ARID, RFX-like)", 
+  "symbol": "ARID2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q12"
+  ], 
+  "gene_id": "ENSG00000189079"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transcription factor EB", 
+  "symbol": "TFEB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.1"
+  ], 
+  "gene_id": "ENSG00000112561"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fanconi anemia, complementation group F", 
+  "symbol": "FANCF", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11p14.3"
+  ], 
+  "gene_id": "ENSG00000183161"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein tyrosine kinase 6", 
+  "symbol": "PTK6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q13.33"
+  ], 
+  "gene_id": "ENSG00000101213"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 11A (zinc finger protein)", 
+  "symbol": "BCL11A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p16.1"
+  ], 
+  "gene_id": "ENSG00000119866"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "transcription factor 3", 
+  "symbol": "TCF3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.3"
+  ], 
+  "gene_id": "ENSG00000071564"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "PHD finger protein 6", 
+  "symbol": "PHF6", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xq26.2"
+  ], 
+  "gene_id": "ENSG00000156531"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "family with sequence similarity 131, member B", 
+  "symbol": "FAM131B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q34"
+  ], 
+  "gene_id": "ENSG00000159784"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell translocation gene 1, anti-proliferative", 
+  "symbol": "BTG1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q21.33"
+  ], 
+  "gene_id": "ENSG00000133639"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear receptor corepressor 2", 
+  "symbol": "NCOR2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.31"
+  ], 
+  "gene_id": "ENSG00000196498"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)", 
+  "symbol": "CDKN2C", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p32.3"
+  ], 
+  "gene_id": "ENSG00000123080"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "activin A receptor, type I", 
+  "symbol": "ACVR1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q24.1"
+  ], 
+  "gene_id": "ENSG00000115170"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "POU class 5 homeobox 1", 
+  "symbol": "POU5F1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.33"
+  ], 
+  "gene_id": "ENSG00000204531"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "T-cell acute lymphocytic leukemia 2", 
+  "symbol": "TAL2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q31.2"
+  ], 
+  "gene_id": "ENSG00000186051"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "striatin, calmodulin binding protein", 
+  "symbol": "STRN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p22.2"
+  ], 
+  "gene_id": "ENSG00000115808"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "MPL proto-oncogene, thrombopoietin receptor", 
+  "symbol": "MPL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1p34.2"
+  ], 
+  "gene_id": "ENSG00000117400"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "H3 histone, family 3A", 
+  "symbol": "H3F3A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q42.12"
+  ], 
+  "gene_id": "ENSG00000163041"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "perforin 1 (pore forming protein)", 
+  "symbol": "PRF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q22.1"
+  ], 
+  "gene_id": "ENSG00000180644"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SLIT-ROBO Rho GTPase activating protein 3", 
+  "symbol": "SRGAP3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p25.3"
+  ], 
+  "gene_id": "ENSG00000196220"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Janus kinase 2", 
+  "symbol": "JAK2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9p24.1"
+  ], 
+  "gene_id": "ENSG00000096968"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "patched 1", 
+  "symbol": "PTCH1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q22.32"
+  ], 
+  "gene_id": "ENSG00000185920"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "TNF receptor-associated factor 7, E3 ubiquitin protein ligase", 
+  "symbol": "TRAF7", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "16p13.3"
+  ], 
+  "gene_id": "ENSG00000131653"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "3-ketodihydrosphingosine reductase", 
+  "symbol": "KDSR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "18q21.33"
+  ], 
+  "gene_id": "ENSG00000119537"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon", 
+  "symbol": "NFKBIE", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6p21.1"
+  ], 
+  "gene_id": "ENSG00000146232"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "suppressor of fused homolog (Drosophila)", 
+  "symbol": "SUFU", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q24.32"
+  ], 
+  "gene_id": "ENSG00000107882"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "coiled-coil-helix-coiled-coil-helix domain containing 7", 
+  "symbol": "CHCHD7", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q12.1"
+  ], 
+  "gene_id": "ENSG00000170791"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "aldehyde dehydrogenase 2 family (mitochondrial)", 
+  "symbol": "ALDH2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.12"
+  ], 
+  "gene_id": "ENSG00000111275"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nuclear factor, erythroid 2-like 2", 
+  "symbol": "NFE2L2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2q31.2"
+  ], 
+  "gene_id": "ENSG00000116044"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "succinate dehydrogenase complex assembly factor 2", 
+  "symbol": "SDHAF2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q12.2"
+  ], 
+  "gene_id": "ENSG00000167985"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Cbl proto-oncogene, E3 ubiquitin protein ligase", 
+  "symbol": "CBL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.3"
+  ], 
+  "gene_id": "ENSG00000110395"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ets variant 5", 
+  "symbol": "ETV5", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q27.2"
+  ], 
+  "gene_id": "ENSG00000244405"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "phosphoinositide-3-kinase, regulatory subunit 1 (alpha)", 
+  "symbol": "PIK3R1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "5q13.1"
+  ], 
+  "gene_id": "ENSG00000145675"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "abl-interactor 1", 
+  "symbol": "ABI1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10p12.1"
+  ], 
+  "gene_id": "ENSG00000136754"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "protein tyrosine phosphatase, non-receptor type 11", 
+  "symbol": "PTPN11", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.13"
+  ], 
+  "gene_id": "ENSG00000179295"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "MDS1 and EVI1 complex locus", 
+  "symbol": "MECOM", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q26.2"
+  ], 
+  "gene_id": "ENSG00000085276"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "Fc receptor-like 4", 
+  "symbol": "FCRL4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q23.1"
+  ], 
+  "gene_id": "ENSG00000163518"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "nascent polypeptide-associated complex alpha subunit", 
+  "symbol": "NACA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q13.3"
+  ], 
+  "gene_id": "ENSG00000196531"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "cyclin-dependent kinase 4", 
+  "symbol": "CDK4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q14.1"
+  ], 
+  "gene_id": "ENSG00000135446"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "period circadian clock 1", 
+  "symbol": "PER1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p13.1"
+  ], 
+  "gene_id": "ENSG00000179094"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "tumor protein p53", 
+  "symbol": "TP53", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p13.1"
+  ], 
+  "gene_id": "ENSG00000141510"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lysine (K)-specific methyltransferase 2C", 
+  "symbol": "KMT2C", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q36.1"
+  ], 
+  "gene_id": "ENSG00000055609"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "calreticulin", 
+  "symbol": "CALR", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19p13.13"
+  ], 
+  "gene_id": "ENSG00000179218"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SET domain containing 2", 
+  "symbol": "SETD2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p21.31"
+  ], 
+  "gene_id": "ENSG00000181555"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "U2 small nuclear RNA auxiliary factor 1", 
+  "symbol": "U2AF1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "21q22.3"
+  ], 
+  "gene_id": "ENSG00000160201"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "lysine (K)-specific demethylase 5C", 
+  "symbol": "KDM5C", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "Xp11.22"
+  ], 
+  "gene_id": "ENSG00000126012"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "megakaryoblastic leukemia (translocation) 1", 
+  "symbol": "MKL1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q13.1", 
+    "22q13.2"
+  ], 
+  "gene_id": "ENSG00000196588"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "proprotein convertase subtilisin/kexin type 7", 
+  "symbol": "PCSK7", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.3"
+  ], 
+  "gene_id": "ENSG00000160613"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 9", 
+  "symbol": "BCL9", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "1q21.2"
+  ], 
+  "gene_id": "ENSG00000116128"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SH2B adaptor protein 3", 
+  "symbol": "SH2B3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q24.12"
+  ], 
+  "gene_id": "ENSG00000111252"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "ras homolog family member A", 
+  "symbol": "RHOA", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p21.31"
+  ], 
+  "gene_id": "ENSG00000067560"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "leucine-rich repeats and immunoglobulin-like domains 3", 
+  "symbol": "LRIG3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12q14.1"
+  ], 
+  "gene_id": "ENSG00000139263"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "eukaryotic translation initiation factor 4A2", 
+  "symbol": "EIF4A2", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3q27.3"
+  ], 
+  "gene_id": "ENSG00000156976"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "AT rich interactive domain 1B (SWI1-like)", 
+  "symbol": "ARID1B", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q25.3"
+  ], 
+  "gene_id": "ENSG00000049618"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "succinate dehydrogenase complex, subunit D, integral membrane protein", 
+  "symbol": "SDHD", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "11q23.1"
+  ], 
+  "gene_id": "ENSG00000204370"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "B-cell CLL/lymphoma 3", 
+  "symbol": "BCL3", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "19q13.32"
+  ], 
+  "gene_id": "ENSG00000069399"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "runt-related transcription factor 1; translocated to, 1 (cyclin D-related)", 
+  "symbol": "RUNX1T1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "8q21.3"
+  ], 
+  "gene_id": "ENSG00000079102"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "mitogen-activated protein kinase kinase 4", 
+  "symbol": "MAP2K4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17p12"
+  ], 
+  "gene_id": "ENSG00000065559"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "epithelial cell transforming 2 like", 
+  "symbol": "ECT2L", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q24.1"
+  ], 
+  "gene_id": "ENSG00000203734"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "chromodomain helicase DNA binding protein 4", 
+  "symbol": "CHD4", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "12p13.31"
+  ], 
+  "gene_id": "ENSG00000111642"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "collagen, type I, alpha 1", 
+  "symbol": "COL1A1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "17q21.33"
+  ], 
+  "gene_id": "ENSG00000108821"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1", 
+  "symbol": "SMARCB1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "22q11.23"
+  ], 
+  "gene_id": "ENSG00000099956"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "motor neuron and pancreas homeobox 1", 
+  "symbol": "MNX1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "7q36.3"
+  ], 
+  "gene_id": "ENSG00000130675"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "xeroderma pigmentosum, complementation group C", 
+  "symbol": "XPC", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p25.1"
+  ], 
+  "gene_id": "ENSG00000154767"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "centriolin", 
+  "symbol": "CNTRL", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "9q33.2"
+  ], 
+  "gene_id": "ENSG00000119397"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-myb avian myeloblastosis viral oncogene homolog", 
+  "symbol": "MYB", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "6q23.3"
+  ], 
+  "gene_id": "ENSG00000118513"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "topoisomerase (DNA) I", 
+  "symbol": "TOP1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "20q12"
+  ], 
+  "gene_id": "ENSG00000198900"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "dynactin 1", 
+  "symbol": "DCTN1", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p13.1"
+  ], 
+  "gene_id": "ENSG00000204843"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "calcium channel, voltage-dependent, L type, alpha 1D subunit", 
+  "symbol": "CACNA1D", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "3p21.1"
+  ], 
+  "gene_id": "ENSG00000157388"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "v-myc avian myelocytomatosis viral oncogene neuroblastoma derived homolog", 
+  "symbol": "MYCN", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "2p24.3"
+  ], 
+  "gene_id": "ENSG00000134323"
+},{
+  "is_cancer_gene_census": "true", 
+  "name": "NUT family member 2A", 
+  "symbol": "NUTM2A", 
+  "biotype": "protein_coding", 
+  "cytoband": [
+    "10q23.2"
+  ], 
+  "gene_id": "ENSG00000184923"
+}]

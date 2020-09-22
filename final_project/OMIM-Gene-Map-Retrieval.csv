@@ -1,0 +1,24 @@
+﻿"Gene Map Search - '""copper accumulation"" (Search in: Entries with: Genemap; Retrieve: gene map)'",,,,,,,,,,,,,
+Downloaded:,"Sep 22, 2020",,,,,,,,,,,,
+"Copyright (c) 1966-2020 Johns Hopkins University OMIM, data are provided for research purposes only.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Cytogenetic location,Genomic coordinates (From NCBI/GRCh38),Gene/Locus,Gene/Locus name,Gene/Locus MIM number,Approved Symbol,Entrez Gene ID,Ensembl Gene ID,Comments,Phenotype,Phenotype MIM number,Inheritance,Pheno map key,Mouse Gene (from MGI)
+2q21.1,2:130337932-130342680,"CCDC115, CCP1, CDG2O",Coiled-coil domain-containing protein 115,613734,CCDC115,84317,"ENSG00000136710,ENST00000409127.1",,"Congenital disorder of glycosylation, type IIo",616828,Autosomal recessive,3,Ccdc115
+6p25.1,6:5261006-5771582,"FARS2, FARS1, COXPD14, SPG77","Phenylalanyl-tRNA synthetase 2, mitochondrial",611592,FARS2,10667,"ENSG00000145982,ENST00000324331.10",,Combined oxidative phosphorylation deficiency 14,614946,Autosomal recessive,3,Fars2
+6p25.1,6:5261006-5771582,"FARS2, FARS1, COXPD14, SPG77","Phenylalanyl-tRNA synthetase 2, mitochondrial",611592,FARS2,10667,"ENSG00000145982,ENST00000324331.10",,"Spastic paraplegia 77, autosomal recessive",617046,Autosomal recessive,3,Fars2
+9q32,9:113221543-113264491,"SLC31A1, COPT1, CTR1","Solute carrier family 31 (copper transporter), member 1",603085,SLC31A1,1317,"ENSG00000136868,ENST00000374212.5",,,,,Slc31a1,
+13q14.3,13:51932668-52012129,"ATP7B, WND","ATPase, Cu++ transporting, beta polypeptide",606882,ATP7B,540,"ENSG00000123191,ENST00000242839.9",,Wilson disease,277900,Autosomal recessive,3,Atp7b
+17q11.2,17:28357646-28363682,"TMEM199, VMA12, VPH2, C17orf32, CDG2P",Transmembrane protein 199,616815,TMEM199,147007,"ENSG00000244045,ENST00000292114.8",,"Congenital disorder of glycosylation, type IIp",616829,Autosomal recessive,3,Tmem199
+Xq21.1,X:77910692-78050394,"ATP7A, MNK, MK, OHS, SMAX3","ATPase, Cu++ transporting, alpha polypeptide",300011,ATP7A,538,"ENSG00000165240,ENST00000341514.11","probably Xq13.2-q13.3, ~150kb prox. to PGK1",Menkes disease,309400,X-linked recessive,3,Atp7a
+Xq21.1,X:77910692-78050394,"ATP7A, MNK, MK, OHS, SMAX3","ATPase, Cu++ transporting, alpha polypeptide",300011,ATP7A,538,"ENSG00000165240,ENST00000341514.11","probably Xq13.2-q13.3, ~150kb prox. to PGK1",Occipital horn syndrome,304150,X-linked recessive,3,Atp7a
+Xq21.1,X:77910692-78050394,"ATP7A, MNK, MK, OHS, SMAX3","ATPase, Cu++ transporting, alpha polypeptide",300011,ATP7A,538,"ENSG00000165240,ENST00000341514.11","probably Xq13.2-q13.3, ~150kb prox. to PGK1","Spinal muscular atrophy, distal, X-linked 3",300489,X-linked recessive,3,Atp7a
+Xq25,X:123859707-123913971,"XIAP, BIRC4, API3, XLP2","Inhibitor of apoptosis, X-linked",300079,XIAP,331,"ENSG00000101966,ENST00000371199.7",,"Lymphoproliferative syndrome, X-linked, 2",300635,X-linked recessive,3,Xiap
+Xq28,X:154428668-154436515,"ATP6AP1, ATP6IP1, ATP6S1, VATPS1","ATPase, H+ transporting, lysosomal, accessory protein 1",300197,ATP6AP1,537,"ENSG00000071553,ENST00000369762.7",,Immunodeficiency 47,300972,X-linked recessive,3,Atp6ap1
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Phenotype Mapping Key,,,,,,,,,,,,,
+"1 - The disorder is placed on the map due to its association with a gene, but the underlying defect is not known.",,,,,,,,,,,,,
+2 - The disorder was placed on the map by statistical methods.,,,,,,,,,,,,,
+3 - The molecular basis of the disorder is known.,,,,,,,,,,,,,
+4 - A contiguous gene duplication or deletion syndrome in which multiple genes are involved.,,,,,,,,,,,,,
